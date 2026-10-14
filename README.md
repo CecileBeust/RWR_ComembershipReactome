@@ -1,6 +1,6 @@
 ## Random Walk With Restart on pathway co-membership cliques of Reactome (version 96)
 
-The co-membership cliques of Reactome can be downloaded at: []
+The co-membership cliques of Reactome can be downloaded at: https://zenodo.org/records/23372223
 
 The networks in the repository are:
 
