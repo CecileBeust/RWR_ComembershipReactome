@@ -1,0 +1,11 @@
+seed: TISSUE_INVASION_METASTASIS_seeds.txt
+self_loops: 0
+r: 0.2
+eta: [1.0]
+multiplex:
+    1:
+        layers:
+            - ../../../../../Data/ReactomeCliques/Reactome96WeightedComembershipClique.tsv
+        delta: 0
+        graph_type: [01]
+        tau: [1]

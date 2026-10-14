@@ -1,0 +1,647 @@
+From	Entry	Reviewed	Entry Name	Protein names	Gene Names	Organism	Length
+LAMB4	A4D0S4	reviewed	LAMB4_HUMAN	Laminin subunit beta-4 (Laminin beta-1-related protein)	LAMB4	Homo sapiens (Human)	1761
+CLDN24	A6NM45	reviewed	CLD24_HUMAN	Claudin-24 (Claudin-21)	CLDN24 CLDN21	Homo sapiens (Human)	220
+COL6A6	A6NMZ7	reviewed	CO6A6_HUMAN	Collagen alpha-6(VI) chain	COL6A6	Homo sapiens (Human)	2263
+PRKCH	C0HM02	reviewed	PKHUO_HUMAN	PRKCH upstream open reading frame 2 (uORF2) (Protein uPEP2)	PRKCH	Homo sapiens (Human)	26
+CLDN25	C9JDP6	reviewed	CLD25_HUMAN	Claudin-25	CLDN25	Homo sapiens (Human)	229
+TLR4	O00206	reviewed	TLR4_HUMAN	Toll-like receptor 4 (hToll) (CD antigen CD284)	TLR4	Homo sapiens (Human)	839
+PIK3CD	O00329	reviewed	PK3CD_HUMAN	Phosphatidylinositol 4,5-bisphosphate 3-kinase catalytic subunit delta isoform (PI3-kinase subunit delta) (PI3K-delta) (PI3Kdelta) (PtdIns-3-kinase subunit delta) (EC 2.7.1.137) (EC 2.7.1.153) (Phosphatidylinositol 4,5-bisphosphate 3-kinase 110 kDa catalytic subunit delta) (PtdIns-3-kinase subunit p110-delta) (p110delta)	PIK3CD	Homo sapiens (Human)	1044
+WASL	O00401	reviewed	WASL_HUMAN	Actin nucleation-promoting factor WASL (Neural Wiskott-Aldrich syndrome protein) (N-WASP)	WASL	Homo sapiens (Human)	505
+CLDN5	O00501	reviewed	CLD5_HUMAN	Claudin-5 (Transmembrane protein deleted in VCFS) (TMDVCF)	CLDN5 AWAL TMVCF	Homo sapiens (Human)	218
+WNT10B	O00744	reviewed	WN10B_HUMAN	Protein Wnt-10b (Protein Wnt-12)	WNT10B WNT12	Homo sapiens (Human)	389
+WNT7A	O00755	reviewed	WNT7A_HUMAN	Protein Wnt-7a	WNT7A	Homo sapiens (Human)	349
+CLDN4	O14493	reviewed	CLD4_HUMAN	Claudin-4 (Clostridium perfringens enterotoxin receptor) (CPE-R) (CPE-receptor) (Williams-Beuren syndrome chromosomal region 8 protein)	CLDN4 CPER CPETR1 WBSCR8	Homo sapiens (Human)	209
+NRG2	O14511	reviewed	NRG2_HUMAN	Pro-neuregulin-2, membrane-bound isoform (Pro-NRG2) [Cleaved into: Neuregulin-2 (NRG-2) (Divergent of neuregulin-1) (DON-1) (Neural- and thymus-derived activator for ERBB kinases) (NTAK)]	NRG2 NTAK	Homo sapiens (Human)	850
+NCAN	O14594	reviewed	NCAN_HUMAN	Neurocan core protein (Chondroitin sulfate proteoglycan 3)	NCAN CSPG3 NEUR	Homo sapiens (Human)	1321
+DVL1	O14640	reviewed	DVL1_HUMAN	Segment polarity protein dishevelled homolog DVL-1 (Dishevelled-1) (DSH homolog 1)	DVL1	Homo sapiens (Human)	695
+DVL2	O14641	reviewed	DVL2_HUMAN	Segment polarity protein dishevelled homolog DVL-2 (Dishevelled-2) (DSH homolog 2)	DVL2	Homo sapiens (Human)	736
+MAP2K7	O14733	reviewed	MP2K7_HUMAN	Dual specificity mitogen-activated protein kinase kinase 7 (MAP kinase kinase 7) (MAPKK 7) (EC 2.7.12.2) (JNK-activating kinase 2) (MAPK/ERK kinase 7) (MEK 7) (Stress-activated protein kinase kinase 4) (SAPK kinase 4) (SAPKK-4) (SAPKK4) (c-Jun N-terminal kinase kinase 2) (JNK kinase 2) (JNKK 2)	MAP2K7 JNKK2 MEK7 MKK7 PRKMK7 SKK4	Homo sapiens (Human)	419
+GNB5	O14775	reviewed	GNB5_HUMAN	Guanine nucleotide-binding protein subunit beta-5 (Gbeta5) (Transducin beta chain 5)	GNB5	Homo sapiens (Human)	395
+WNT9A	O14904	reviewed	WNT9A_HUMAN	Protein Wnt-9a (Protein Wnt-14)	WNT9A WNT14	Homo sapiens (Human)	365
+WNT9B	O14905	reviewed	WNT9B_HUMAN	Protein Wnt-9b (Protein Wnt-14b) (Protein Wnt-15)	WNT9B WNT14B WNT15 UNQ6973/PRO21956	Homo sapiens (Human)	357
+IKBKB	O14920	reviewed	IKKB_HUMAN	Inhibitor of nuclear factor kappa-B kinase subunit beta (I-kappa-B-kinase beta) (IKK-B) (IKK-beta) (IkBKB) (EC 2.7.11.10) (I-kappa-B kinase 2) (IKK-2) (IKK2) (Nuclear factor NF-kappa-B inhibitor kinase beta) (NFKBIKB) (Serine/threonine protein kinase IKBKB) (EC 2.7.11.1)	IKBKB IKKB	Homo sapiens (Human)	756
+CASK	O14936	reviewed	CSKP_HUMAN	Peripheral plasma membrane protein CASK (hCASK) (EC 2.7.11.1) (Calcium/calmodulin-dependent serine protein kinase) (Protein lin-2 homolog)	CASK LIN2	Homo sapiens (Human)	926
+PLD2	O14939	reviewed	PLD2_HUMAN	Phospholipase D2 (PLD 2) (hPLD2) (EC 3.1.4.4) (Choline phosphatase 2) (PLD1C) (Phosphatidylcholine-hydrolyzing phospholipase D2)	PLD2	Homo sapiens (Human)	933
+EREG	O14944	reviewed	EREG_HUMAN	Proepiregulin [Cleaved into: Epiregulin (EPR)]	EREG	Homo sapiens (Human)	169
+ANGPT2	O15123	reviewed	ANGP2_HUMAN	Angiopoietin-2 (ANG-2)	ANGPT2	Homo sapiens (Human)	496
+LAMA5	O15230	reviewed	LAMA5_HUMAN	Laminin subunit alpha-5 (Laminin-10 subunit alpha) (Laminin-11 subunit alpha) (Laminin-15 subunit alpha)	LAMA5 KIAA0533 KIAA1907	Homo sapiens (Human)	3695
+MAPK13	O15264	reviewed	MK13_HUMAN	Mitogen-activated protein kinase 13 (MAP kinase 13) (MAPK 13) (EC 2.7.11.24) (Mitogen-activated protein kinase p38 delta) (MAP kinase p38 delta) (Stress-activated protein kinase 4)	MAPK13 PRKM13 SAPK4	Homo sapiens (Human)	365
+NCAM2	O15394	reviewed	NCAM2_HUMAN	Neural cell adhesion molecule 2 (N-CAM-2) (NCAM-2)	NCAM2 NCAM21	Homo sapiens (Human)	837
+ARPC5	O15511	reviewed	ARPC5_HUMAN	Actin-related protein 2/3 complex subunit 5 (Arp2/3 complex 16 kDa subunit) (p16-ARC)	ARPC5 ARC16	Homo sapiens (Human)	151
+FGF10	O15520	reviewed	FGF10_HUMAN	Fibroblast growth factor 10 (FGF-10) (Keratinocyte growth factor 2)	FGF10	Homo sapiens (Human)	208
+PDPK1	O15530	reviewed	PDPK1_HUMAN	3-phosphoinositide-dependent protein kinase 1 (hPDK1) (EC 2.7.11.1)	PDPK1 PDK1	Homo sapiens (Human)	556
+CLDN3	O15551	reviewed	CLD3_HUMAN	Claudin-3 (Clostridium perfringens enterotoxin receptor 2) (CPE-R 2) (CPE-receptor 2) (Rat ventral prostate.1 protein homolog) (hRVP1)	CLDN3 C7orf1 CPETR2	Homo sapiens (Human)	220
+MAP3K7	O43318	reviewed	M3K7_HUMAN	Mitogen-activated protein kinase kinase kinase 7 (EC 2.7.11.25) (Transforming growth factor-beta-activated kinase 1) (TGF-beta-activated kinase 1)	MAP3K7 TAK1	Homo sapiens (Human)	606
+LAT	O43561	reviewed	LAT_HUMAN	Linker for activation of T-cells family member 1 (36 kDa phosphotyrosine adapter protein) (pp36) (p36-38)	LAT	Homo sapiens (Human)	262
+SNAI2	O43623	reviewed	SNAI2_HUMAN	Zinc finger protein SNAI2 (Neural crest transcription factor Slug) (Protein snail homolog 2)	SNAI2 SLUG SLUGH	Homo sapiens (Human)	268
+NCK2	O43639	reviewed	NCK2_HUMAN	Cytoplasmic protein NCK2 (Growth factor receptor-bound protein 4) (NCK adaptor protein 2) (Nck-2) (SH2/SH3 adaptor protein NCK-beta)	NCK2 GRB4	Homo sapiens (Human)	380
+ACTN4	O43707	reviewed	ACTN4_HUMAN	Alpha-actinin-4 (Non-muscle alpha-actinin 4)	ACTN4	Homo sapiens (Human)	911
+FIGF	O43915	reviewed	VEGFD_HUMAN	Vascular endothelial growth factor D (VEGF-D) (c-Fos-induced growth factor) (FIGF)	VEGFD FIGF	Homo sapiens (Human)	354
+EFNA2	O43921	reviewed	EFNA2_HUMAN	Ephrin-A2 (EPH-related receptor tyrosine kinase ligand 6) (LERK-6) (HEK7 ligand) (HEK7-L)	EFNA2 EPLG6 LERK6	Homo sapiens (Human)	213
+PIP5K1C	O60331	reviewed	PI51C_HUMAN	Phosphatidylinositol 4-phosphate 5-kinase type-1 gamma (PIP5K1gamma) (PtdIns(4)P-5-kinase 1 gamma) (EC 2.7.1.68) (Type I phosphatidylinositol 4-phosphate 5-kinase gamma)	PIP5K1C KIAA0589	Homo sapiens (Human)	668
+NPHS1	O60500	reviewed	NPHN_HUMAN	Nephrin (Renal glomerulus-specific cell adhesion receptor)	NPHS1 NPHN	Homo sapiens (Human)	1241
+TLR2	O60603	reviewed	TLR2_HUMAN	Toll-like receptor 2 (Toll/interleukin-1 receptor-like protein 4) (CD antigen CD282)	TLR2 TIL4	Homo sapiens (Human)	784
+DIAPH1	O60610	reviewed	DIAP1_HUMAN	Protein diaphanous homolog 1 (Diaphanous-related formin-1) (DRF1)	DIAPH1 DIAP1	Homo sapiens (Human)	1272
+EXOC3	O60645	reviewed	EXOC3_HUMAN	Exocyst complex component 3 (Exocyst complex component Sec6)	EXOC3 SEC6 SEC6L1	Homo sapiens (Human)	745
+CTNND1	O60716	reviewed	CTND1_HUMAN	Catenin delta-1 (Cadherin-associated Src substrate) (CAS) (p120 catenin) (p120(ctn)) (p120(cas))	CTNND1 KIAA0384	Homo sapiens (Human)	968
+SDC3	O75056	reviewed	SDC3_HUMAN	Syndecan-3 (SYND3)	SDC3 KIAA0468	Homo sapiens (Human)	442
+ROCK2	O75116	reviewed	ROCK2_HUMAN	Rho-associated protein kinase 2 (EC 2.7.11.39) (Rho kinase 2) (Rho-associated, coiled-coil-containing protein kinase 2) (Rho-associated, coiled-coil-containing protein kinase II) (ROCK-II) (p164 ROCK-2)	ROCK2 KIAA0619	Homo sapiens (Human)	1388
+SPN	O75398	reviewed	DEAF1_HUMAN	Deformed epidermal autoregulatory factor 1 homolog (Nuclear DEAF-1-related transcriptional regulator) (NUDR) (Suppressin) (Zinc finger MYND domain-containing protein 5)	DEAF1 SPN ZMYND5	Homo sapiens (Human)	565
+GPC4	O75487	reviewed	GPC4_HUMAN	Glypican-4 (K-glypican) [Cleaved into: Secreted glypican-4]	GPC4 UNQ474/PRO937	Homo sapiens (Human)	556
+CLDN11	O75508	reviewed	CLD11_HUMAN	Claudin-11 (Oligodendrocyte-specific protein)	CLDN11 OSP OTM	Homo sapiens (Human)	207
+DAB1	O75553	reviewed	DAB1_HUMAN	Disabled homolog 1	DAB1	Homo sapiens (Human)	588
+ITGA10	O75578	reviewed	ITA10_HUMAN	Integrin alpha-10	ITGA10 UNQ468/PRO827	Homo sapiens (Human)	1167
+NFASC	O94856	reviewed	NFASC_HUMAN	Neurofascin	NFASC KIAA0756	Homo sapiens (Human)	1347
+FARP2	O94887	reviewed	FARP2_HUMAN	FERM, ARHGEF and pleckstrin domain-containing protein 2 (FERM domain-including RhoGEF) (FIR) (FERM, RhoGEF and pleckstrin domain-containing protein 2) (Pleckstrin homology domain-containing family C member 3) (PH domain-containing family C member 3)	FARP2 KIAA0793 PLEKHC3	Homo sapiens (Human)	1054
+UNC5C	O95185	reviewed	UNC5C_HUMAN	Netrin receptor UNC5C (Protein unc-5 homolog 3) (Protein unc-5 homolog C)	UNC5C UNC5H3	Homo sapiens (Human)	931
+GNAS	O95467	reviewed	GNAS3_HUMAN	Neuroendocrine secretory protein 55 (NESP55) [Cleaved into: LHAL tetrapeptide; GPIPIRRH peptide]	GNAS GNAS1	Homo sapiens (Human)	245
+CLDN7	O95471	reviewed	CLD7_HUMAN	Claudin-7 (CLDN-7)	CLDN7 CEPTRL2 CPETRL2	Homo sapiens (Human)	211
+CLDN9	O95484	reviewed	CLD9_HUMAN	Claudin-9	CLDN9	Homo sapiens (Human)	217
+CLDN14	O95500	reviewed	CLD14_HUMAN	Claudin-14	CLDN14 UNQ777/PRO1571	Homo sapiens (Human)	239
+MAP4K4	O95819	reviewed	M4K4_HUMAN	Mitogen-activated protein kinase kinase kinase kinase 4 (EC 2.7.11.1) (HPK/GCK-like kinase HGK) (MAPK/ERK kinase kinase kinase 4) (MEK kinase kinase 4) (MEKKK 4) (Nck-interacting kinase)	MAP4K4 HGK KIAA0687 NIK	Homo sapiens (Human)	1239
+CLDN1	O95832	reviewed	CLD1_HUMAN	Claudin-1 (Senescence-associated epithelial membrane protein)	CLDN1 CLD1 SEMP1 UNQ481/PRO944	Homo sapiens (Human)	211
+SNAI1	O95863	reviewed	SNAI1_HUMAN	Zinc finger protein SNAI1 (Protein snail homolog 1) (Protein sna)	SNAI1 SNAH	Homo sapiens (Human)	264
+APC2	O95996	reviewed	APCL_HUMAN	Adenomatous polyposis coli protein 2 (Adenomatous polyposis coli protein-like) (APC-like)	APC2 APCL	Homo sapiens (Human)	2303
+PAK4	O96013	reviewed	PAK4_HUMAN	Serine/threonine-protein kinase PAK 4 (EC 2.7.11.1) (p21-activated kinase 4) (PAK-4)	PAK4 KIAA1142	Homo sapiens (Human)	591
+WNT11	O96014	reviewed	WNT11_HUMAN	Protein Wnt-11	WNT11	Homo sapiens (Human)	354
+ABL1	P00519	reviewed	ABL1_HUMAN	Tyrosine-protein kinase ABL1 (EC 2.7.10.2) (Abelson murine leukemia viral oncogene homolog 1) (Abelson tyrosine-protein kinase 1) (Proto-oncogene c-Abl) (p150)	ABL1 ABL JTK7	Homo sapiens (Human)	1130
+EGFR	P00533	reviewed	EGFR_HUMAN	Epidermal growth factor receptor (EC 2.7.10.1) (Proto-oncogene c-ErbB-1) (Receptor tyrosine-protein kinase erbB-1)	EGFR ERBB ERBB1 HER1	Homo sapiens (Human)	1210
+PLAU	P00749	reviewed	UROK_HUMAN	Urokinase-type plasminogen activator (U-plasminogen activator) (Urokinase) (uPA) (EC 3.4.21.73) [Cleaved into: Urokinase-type plasminogen activator long chain A; Urokinase-type plasminogen activator short chain A; Urokinase-type plasminogen activator chain B]	PLAU	Homo sapiens (Human)	431
+MYC	P01106	reviewed	MYC_HUMAN	Myc proto-oncogene protein (Class E basic helix-loop-helix protein 39) (bHLHe39) (Proto-oncogene c-Myc) (Transcription factor p64)	MYC BHLHE39	Homo sapiens (Human)	454
+NRAS	P01111	reviewed	RASN_HUMAN	GTPase NRas (EC 3.6.5.2) (Transforming protein N-Ras)	NRAS HRAS1	Homo sapiens (Human)	189
+HRAS	P01112	reviewed	RASH_HUMAN	GTPase HRas (EC 3.6.5.2) (H-Ras-1) (Ha-Ras) (Transforming protein p21) (c-H-ras) (p21ras) [Cleaved into: GTPase HRas, N-terminally processed]	HRAS HRAS1	Homo sapiens (Human)	189
+KRAS	P01116	reviewed	RASK_HUMAN	GTPase KRas (EC 3.6.5.2) (K-Ras 2) (Ki-Ras) (c-K-ras) (c-Ki-ras) [Cleaved into: GTPase KRas, N-terminally processed]	KRAS KRAS2 RASK2	Homo sapiens (Human)	189
+PDGFB	P01127	reviewed	PDGFB_HUMAN	Platelet-derived growth factor subunit B (PDGF subunit B) (PDGF-2) (Platelet-derived growth factor B chain) (Platelet-derived growth factor beta polypeptide) (Proto-oncogene c-Sis) (Becaplermin)	PDGFB PDGF2 SIS	Homo sapiens (Human)	241
+EGF	P01133	reviewed	EGF_HUMAN	Pro-epidermal growth factor (EGF) [Cleaved into: Epidermal growth factor (Urogastrone)]	EGF	Homo sapiens (Human)	1207
+TGFA	P01135	reviewed	TGFA_HUMAN	Protransforming growth factor alpha [Cleaved into: Transforming growth factor alpha (TGF-alpha) (EGF-like TGF) (ETGF) (TGF type 1)]	TGFA	Homo sapiens (Human)	160
+TGFB1	P01137	reviewed	TGFB1_HUMAN	Transforming growth factor beta-1 proprotein [Cleaved into: Latency-associated peptide (LAP); Transforming growth factor beta-1 (TGF-beta-1)]	TGFB1 TGFB	Homo sapiens (Human)	390
+NGF	P01138	reviewed	NGF_HUMAN	Beta-nerve growth factor (Beta-NGF)	NGF NGFB	Homo sapiens (Human)	241
+INS	P01308	reviewed	INS_HUMAN	Insulin [Cleaved into: Insulin B chain; Insulin A chain]	INS	Homo sapiens (Human)	110
+TNF	P01375	reviewed	TNFA_HUMAN	Tumor necrosis factor (Cachectin) (TNF-alpha) (Tumor necrosis factor ligand superfamily member 2) (TNF-a) [Cleaved into: Tumor necrosis factor, membrane form (N-terminal fragment) (NTF); Intracellular domain 1 (ICD1); Intracellular domain 2 (ICD2); C-domain 1; C-domain 2; Tumor necrosis factor, soluble form]	TNF TNFA TNFSF2	Homo sapiens (Human)	233
+IL1A	P01583	reviewed	IL1A_HUMAN	Interleukin-1 alpha (IL-1 alpha) (Hematopoietin-1)	IL1A IL1F1	Homo sapiens (Human)	271
+CD4	P01730	reviewed	CD4_HUMAN	T-cell surface glycoprotein CD4 (T-cell surface antigen T4/Leu-3) (CD antigen CD4)	CD4	Homo sapiens (Human)	458
+HLA-DRA	P01903	reviewed	DRA_HUMAN	HLA class II histocompatibility antigen, DR alpha chain (MHC class II antigen DRA)	HLA-DRA HLA-DRA1	Homo sapiens (Human)	254
+HLA-DRB1	P01911	reviewed	DRB1_HUMAN	HLA class II histocompatibility antigen, DRB1 beta chain (Human leukocyte antigen DRB1) (HLA-DRB1)	HLA-DRB1	Homo sapiens (Human)	266
+COL1A1	P02452	reviewed	CO1A1_HUMAN	Collagen alpha-1(I) chain (Alpha-1 type I collagen)	COL1A1	Homo sapiens (Human)	1464
+APC2	P02655	reviewed	APOC2_HUMAN	Apolipoprotein C-II (Apo-CII) (ApoC-II) (Apolipoprotein C2) [Cleaved into: Proapolipoprotein C-II (ProapoC-II)]	APOC2 APC2	Homo sapiens (Human)	101
+FGB	P02675	reviewed	FIBB_HUMAN	Fibrinogen beta chain [Cleaved into: Fibrinopeptide B; Fibrinogen beta chain]	FGB	Homo sapiens (Human)	491
+FN1	P02751	reviewed	FINC_HUMAN	Fibronectin (FN) (Cold-insoluble globulin) (CIG) [Cleaved into: Anastellin; Ugl-Y1; Ugl-Y2; Ugl-Y3]	FN1 FN	Homo sapiens (Human)	2477
+ESR1	P03372	reviewed	ESR1_HUMAN	Estrogen receptor (ER) (ER-alpha) (Estradiol receptor) (Nuclear receptor subfamily 3 group A member 1)	ESR1 ESR NR3A1	Homo sapiens (Human)	595
+VTN	P04004	reviewed	VTNC_HUMAN	Vitronectin (VN) (S-protein) (Serum-spreading factor) (V75) [Cleaved into: Vitronectin V65 subunit; Vitronectin V10 subunit; Somatomedin-B]	VTN	Homo sapiens (Human)	478
+RAF1	P04049	reviewed	RAF1_HUMAN	RAF proto-oncogene serine/threonine-protein kinase (EC 2.7.11.1) (Proto-oncogene c-RAF) (cRaf) (Raf-1)	RAF1 RAF	Homo sapiens (Human)	648
+PDGFA	P04085	reviewed	PDGFA_HUMAN	Platelet-derived growth factor subunit A (PDGF subunit A) (PDGF-1) (Platelet-derived growth factor A chain) (Platelet-derived growth factor alpha polypeptide)	PDGFA PDGF1	Homo sapiens (Human)	211
+THY1	P04216	reviewed	THY1_HUMAN	Thy-1 membrane glycoprotein (CDw90) (Thy-1 antigen) (CD antigen CD90)	THY1	Homo sapiens (Human)	161
+VWF	P04275	reviewed	VWF_HUMAN	von Willebrand factor (vWF) [Cleaved into: von Willebrand antigen 2 (von Willebrand antigen II)]	VWF F8VWF	Homo sapiens (Human)	2813
+ERBB2	P04626	reviewed	ERBB2_HUMAN	Receptor tyrosine-protein kinase erbB-2 (EC 2.7.10.1) (Metastatic lymph node gene 19 protein) (MLN 19) (Proto-oncogene Neu) (Proto-oncogene c-ErbB-2) (Tyrosine kinase-type cell surface receptor HER2) (p185erbB2) (CD antigen CD340)	ERBB2 HER2 MLN19 NEU NGL	Homo sapiens (Human)	1255
+WNT1	P04628	reviewed	WNT1_HUMAN	Proto-oncogene Wnt-1 (Proto-oncogene Int-1 homolog)	WNT1 INT1	Homo sapiens (Human)	370
+NTRK1	P04629	reviewed	NTRK1_HUMAN	High affinity nerve growth factor receptor (EC 2.7.10.1) (Neurotrophic tyrosine kinase receptor type 1) (TRK1-transforming tyrosine kinase protein) (Tropomyosin-related kinase A) (Tyrosine kinase receptor) (Tyrosine kinase receptor A) (Trk-A) (gp140trk) (p140-TrkA)	NTRK1 MTC TRK TRKA	Homo sapiens (Human)	796
+TP53	P04637	reviewed	P53_HUMAN	Cellular tumor antigen p53 (Antigen NY-CO-13) (Phosphoprotein p53) (Tumor suppressor p53)	TP53 P53	Homo sapiens (Human)	393
+HSPB1	P04792	reviewed	HSPB1_HUMAN	Heat shock protein beta-1 (HspB1) (28 kDa heat shock protein) (Estrogen-regulated 24 kDa protein) (Heat shock 27 kDa protein) (HSP 27) (Heat shock protein family B member 1) (Stress-responsive protein 27) (SRP27)	HSPB1 HSP27 HSP28	Homo sapiens (Human)	205
+GNAI2	P04899	reviewed	GNAI2_HUMAN	Guanine nucleotide-binding protein G(i) subunit alpha-2 (EC 3.6.5.-) (Adenylate cyclase-inhibiting G alpha protein)	GNAI2 GNAI2B	Homo sapiens (Human)	355
+IGF1	P05019	reviewed	IGF1_HUMAN	Insulin-like growth factor 1 (Insulin-like growth factor I) (IGF-I) (Mechano growth factor) (MGF) (Somatomedin-C)	IGF1 IBP1 IGF-1	Homo sapiens (Human)	195
+ITGB3	P05106	reviewed	ITB3_HUMAN	Integrin beta-3 (Platelet membrane glycoprotein IIIa) (GPIIIa) (CD antigen CD61)	ITGB3 GP3A	Homo sapiens (Human)	788
+ITGB2	P05107	reviewed	ITB2_HUMAN	Integrin beta-2 (Cell surface adhesion glycoproteins LFA-1/CR3/p150,95 subunit beta) (Complement receptor C3 subunit beta) (CD antigen CD18)	ITGB2 CD18 MFI7	Homo sapiens (Human)	769
+PRKCG	P05129	reviewed	KPCG_HUMAN	Protein kinase C gamma type (PKC-gamma) (EC 2.7.11.13)	PRKCG PKCG	Homo sapiens (Human)	697
+FGF1	P05230	reviewed	FGF1_HUMAN	Fibroblast growth factor 1 (FGF-1) (Acidic fibroblast growth factor) (aFGF) (Endothelial cell growth factor) (ECGF) (Heparin-binding growth factor 1) (HBGF-1)	FGF1 FGFA	Homo sapiens (Human)	155
+ICAM1	P05362	reviewed	ICAM1_HUMAN	Intercellular adhesion molecule 1 (ICAM-1) (Major group rhinovirus receptor) (CD antigen CD54)	ICAM1	Homo sapiens (Human)	532
+JUN	P05412	reviewed	JUN_HUMAN	Transcription factor Jun (Activator protein 1) (AP1) (Proto-oncogene c-Jun) (Transcription factor AP-1 subunit Jun) (V-jun avian sarcoma virus 17 oncogene homolog) (p39)	JUN	Homo sapiens (Human)	331
+ITGB1	P05556	reviewed	ITB1_HUMAN	Integrin beta-1 (Fibronectin receptor subunit beta) (Glycoprotein IIa) (GPIIA) (VLA-4 subunit beta) (CD antigen CD29)	ITGB1 FNRB MDF2 MSK12	Homo sapiens (Human)	798
+PRKCB	P05771	reviewed	KPCB_HUMAN	Protein kinase C beta type (PKC-B) (PKC-beta) (EC 2.7.11.13)	PRKCB PKCB PRKCB1	Homo sapiens (Human)	671
+FYN	P06241	reviewed	FYN_HUMAN	Tyrosine-protein kinase Fyn (EC 2.7.10.2) (Proto-oncogene Syn) (Proto-oncogene c-Fyn) (Src-like kinase) (SLK) (p59-Fyn)	FYN	Homo sapiens (Human)	537
+RB1	P06400	reviewed	RB_HUMAN	Retinoblastoma-associated protein (p105-Rb) (p110-RB1) (pRb) (Rb) (pp110)	RB1	Homo sapiens (Human)	928
+CDK1	P06493	reviewed	CDK1_HUMAN	Cyclin-dependent kinase 1 (CDK1) (EC 2.7.11.22) (EC 2.7.11.23) (Cell division control protein 2 homolog) (Cell division protein kinase 1) (p34 protein kinase)	CDK1 CDC2 CDC28A CDKN1 P34CDC2	Homo sapiens (Human)	297
+CD2	P06729	reviewed	CD2_HUMAN	T-cell surface antigen CD2 (Erythrocyte receptor) (LFA-2) (LFA-3 receptor) (Rosette receptor) (T-cell surface antigen T11/Leu-5) (CD antigen CD2)	CD2 SRBC	Homo sapiens (Human)	351
+ITGAV	P06756	reviewed	ITAV_HUMAN	Integrin alpha-V (Vitronectin receptor) (Vitronectin receptor subunit alpha) (CD antigen CD51) [Cleaved into: Integrin alpha-V heavy chain; Integrin alpha-V light chain]	ITGAV MSK8 VNRA VTNR	Homo sapiens (Human)	1048
+FES	P07332	reviewed	FES_HUMAN	Tyrosine-protein kinase Fes/Fps (EC 2.7.10.2) (Feline sarcoma/Fujinami avian sarcoma oncogene homolog) (Proto-oncogene c-Fes) (Proto-oncogene c-Fps) (p93c-fes)	FES FPS	Homo sapiens (Human)	822
+GP1BA	P07359	reviewed	GP1BA_HUMAN	Platelet glycoprotein Ib alpha chain (GP-Ib alpha) (GPIb-alpha) (GPIbA) (Glycoprotein Ibalpha) (Antigen CD42b-alpha) (CD antigen CD42b) [Cleaved into: Glycocalicin]	GP1BA	Homo sapiens (Human)	652
+CASK	P07498	reviewed	CASK_HUMAN	Kappa-casein	CSN3 CASK CSN10 CSNK	Homo sapiens (Human)	182
+PFN1	P07737	reviewed	PROF1_HUMAN	Profilin-1 (Epididymis tissue protein Li 184a) (Profilin I)	PFN1	Homo sapiens (Human)	140
+LAMB1	P07942	reviewed	LAMB1_HUMAN	Laminin subunit beta-1 (Laminin B1 chain) (Laminin-1 subunit beta) (Laminin-10 subunit beta) (Laminin-12 subunit beta) (Laminin-2 subunit beta) (Laminin-6 subunit beta) (Laminin-8 subunit beta)	LAMB1	Homo sapiens (Human)	1786
+YES1	P07947	reviewed	YES_HUMAN	Tyrosine-protein kinase Yes (EC 2.7.10.2) (Proto-oncogene c-Yes) (p61-Yes)	YES1 YES	Homo sapiens (Human)	543
+RET	P07949	reviewed	RET_HUMAN	Proto-oncogene tyrosine-protein kinase receptor Ret (EC 2.7.10.1) (Cadherin family member 12) (Proto-oncogene c-Ret) [Cleaved into: Soluble RET kinase fragment; Extracellular cell-membrane anchored RET cadherin 120 kDa fragment]	RET CDHF12 CDHR16 PTC	Homo sapiens (Human)	1114
+THBS1	P07996	reviewed	TSP1_HUMAN	Thrombospondin-1 (Glycoprotein G)	THBS1 TSP TSP1	Homo sapiens (Human)	1170
+IGF1R	P08069	reviewed	IGF1R_HUMAN	Insulin-like growth factor 1 receptor (EC 2.7.10.1) (Insulin-like growth factor I receptor) (IGF-I receptor) (CD antigen CD221) [Cleaved into: Insulin-like growth factor 1 receptor alpha chain; Insulin-like growth factor 1 receptor beta chain]	IGF1R	Homo sapiens (Human)	1367
+COL1A2	P08123	reviewed	CO1A2_HUMAN	Collagen alpha-2(I) chain (Alpha-2 type I collagen)	COL1A2	Homo sapiens (Human)	1366
+RHOC	P08134	reviewed	RHOC_HUMAN	Rho-related GTP-binding protein RhoC (EC 3.6.5.2) (Rho cDNA clone 9) (h9)	RHOC ARH9 ARHC	Homo sapiens (Human)	193
+NGFR	P08138	reviewed	TNR16_HUMAN	Tumor necrosis factor receptor superfamily member 16 (Gp80-LNGFR) (Low affinity neurotrophin receptor p75NTR) (Low-affinity nerve growth factor receptor) (NGF receptor) (Low-affinity nerve growth factor receptor p75NGFR) (Low-affinity nerve growth factor receptor p75NGR) (p75 ICD) (CD antigen CD271)	NGFR TNFRSF16	Homo sapiens (Human)	427
+MMP2	P08253	reviewed	MMP2_HUMAN	72 kDa type IV collagenase (EC 3.4.24.24) (72 kDa gelatinase) (Gelatinase A) (Matrix metalloproteinase-2) (MMP-2) (TBE-1) [Cleaved into: PEX]	MMP2 CLG4A	Homo sapiens (Human)	660
+MMP3	P08254	reviewed	MMP3_HUMAN	Stromelysin-1 (SL-1) (EC 3.4.24.17) (Matrix metalloproteinase-3) (MMP-3) (Transin-1)	MMP3 STMY1	Homo sapiens (Human)	477
+ITGA2B	P08514	reviewed	ITA2B_HUMAN	Integrin alpha-IIb (GPalpha IIb) (GPIIb) (Platelet membrane glycoprotein IIb) (CD antigen CD41) [Cleaved into: Integrin alpha-IIb heavy chain; Integrin alpha-IIb light chain, form 1; Integrin alpha-IIb light chain, form 2]	ITGA2B GP2B ITGAB	Homo sapiens (Human)	1039
+PTPRC	P08575	reviewed	PTPRC_HUMAN	Receptor-type tyrosine-protein phosphatase C (EC 3.1.3.48) (Leukocyte common antigen) (L-CA) (T200) (CD antigen CD45)	PTPRC CD45	Homo sapiens (Human)	1306
+MET	P08581	reviewed	MET_HUMAN	Hepatocyte growth factor receptor (HGF receptor) (EC 2.7.10.1) (HGF/SF receptor) (Proto-oncogene c-Met) (Scatter factor receptor) (SF receptor) (Tyrosine-protein kinase Met)	MET	Homo sapiens (Human)	1390
+HCK	P08631	reviewed	HCK_HUMAN	Tyrosine-protein kinase HCK (EC 2.7.10.2) (Hematopoietic cell kinase) (Hemopoietic cell kinase) (p59-HCK/p60-HCK) (p59Hck) (p61Hck)	HCK	Homo sapiens (Human)	526
+ITGA5	P08648	reviewed	ITA5_HUMAN	Integrin alpha-5 (CD49 antigen-like family member E) (Fibronectin receptor subunit alpha) (Integrin alpha-F) (VLA-5) (CD antigen CD49e) [Cleaved into: Integrin alpha-5 heavy chain; Integrin alpha-5 light chain]	ITGA5 FNRA	Homo sapiens (Human)	1049
+GNAI3	P08754	reviewed	GNAI3_HUMAN	Guanine nucleotide-binding protein G(i) subunit alpha-3 (G(i) alpha-3)	GNAI3	Homo sapiens (Human)	354
+CD63	P08962	reviewed	CD63_HUMAN	CD63 antigen (Granulophysin) (Lysosomal-associated membrane protein 3) (LAMP-3) (Lysosome integral membrane protein 1) (Limp1) (Melanoma-associated antigen ME491) (OMA81H) (Ocular melanoma-associated antigen) (Tetraspanin-30) (Tspan-30) (CD antigen CD63)	CD63 MLA1 TSPAN30	Homo sapiens (Human)	238
+FGF2	P09038	reviewed	FGF2_HUMAN	Fibroblast growth factor 2 (FGF-2) (Basic fibroblast growth factor) (bFGF) (Heparin-binding growth factor 2) (HBGF-2)	FGF2 FGFB	Homo sapiens (Human)	288
+MMP7	P09237	reviewed	MMP7_HUMAN	Matrilysin (EC 3.4.24.23) (Matrin) (Matrix metalloproteinase-7) (MMP-7) (Pump-1 protease) (Uterine metalloproteinase)	MMP7 MPSL1 PUMP1	Homo sapiens (Human)	267
+GNAO1	P09471	reviewed	GNAO_HUMAN	Guanine nucleotide-binding protein G(o) subunit alpha (EC 3.6.5.-)	GNAO1	Homo sapiens (Human)	354
+WNT2	P09544	reviewed	WNT2_HUMAN	Protein Wnt-2 (Int-1-like protein 1) (Int-1-related protein) (IRP)	WNT2 INT1L1 IRP	Homo sapiens (Human)	360
+CSF1	P09603	reviewed	CSF1_HUMAN	Macrophage colony-stimulating factor 1 (CSF-1) (M-CSF) (MCSF) (Lanimostim) (Proteoglycan macrophage colony-stimulating factor) (PG-M-CSF) [Cleaved into: Processed macrophage colony-stimulating factor 1; Macrophage colony-stimulating factor 1 43 kDa subunit]	CSF1	Homo sapiens (Human)	554
+PDGFRB	P09619	reviewed	PGFRB_HUMAN	Platelet-derived growth factor receptor beta (PDGF-R-beta) (PDGFR-beta) (EC 2.7.10.1) (Beta platelet-derived growth factor receptor) (Beta-type platelet-derived growth factor receptor) (CD140 antigen-like family member B) (Platelet-derived growth factor receptor 1) (PDGFR-1) (CD antigen CD140b)	PDGFRB PDGFR PDGFR1	Homo sapiens (Human)	1106
+RRAS	P10301	reviewed	RRAS_HUMAN	Ras-related protein R-Ras (EC 3.6.5.2) (p23)	RRAS	Homo sapiens (Human)	218
+BCL2	P10415	reviewed	BCL2_HUMAN	Apoptosis regulator Bcl-2	BCL2	Homo sapiens (Human)	239
+SPP1	P10451	reviewed	OSTP_HUMAN	Osteopontin (Bone sialoprotein 1) (Nephropontin) (Secreted phosphoprotein 1) (SPP-1) (Urinary stone protein) (Uropontin)	SPP1 BNSP OPN PSEC0156	Homo sapiens (Human)	314
+PTPRF	P10586	reviewed	PTPRF_HUMAN	Receptor-type tyrosine-protein phosphatase F (EC 3.1.3.48) (Leukocyte common antigen related) (LAR)	PTPRF LAR	Homo sapiens (Human)	1907
+TGFB3	P10600	reviewed	TGFB3_HUMAN	Transforming growth factor beta-3 proprotein [Cleaved into: Latency-associated peptide (LAP); Transforming growth factor beta-3 (TGF-beta-3)]	TGFB3	Homo sapiens (Human)	412
+KIT	P10721	reviewed	KIT_HUMAN	Mast/stem cell growth factor receptor Kit (SCFR) (EC 2.7.10.1) (Piebald trait protein) (PBT) (Proto-oncogene c-Kit) (Tyrosine-protein kinase Kit) (p145 c-kit) (v-kit Hardy-Zuckerman 4 feline sarcoma viral oncogene homolog) (CD antigen CD117)	KIT SCFR	Homo sapiens (Human)	976
+CD28	P10747	reviewed	CD28_HUMAN	T-cell-specific surface glycoprotein CD28 (TP44) (CD antigen CD28)	CD28	Homo sapiens (Human)	220
+MYL2	P10916	reviewed	MLRV_HUMAN	Myosin regulatory light chain 2, ventricular/cardiac muscle isoform (MLC-2) (MLC-2v) (Cardiac myosin light chain 2) (Myosin light chain 2, slow skeletal/ventricular muscle isoform) (MLC-2s/v) (Ventricular myosin light chain 2)	MYL2 MLC2	Homo sapiens (Human)	166
+LAMB2	P11047	reviewed	LAMC1_HUMAN	Laminin subunit gamma-1 (Laminin B2 chain) (Laminin-1 subunit gamma) (Laminin-10 subunit gamma) (Laminin-11 subunit gamma) (Laminin-2 subunit gamma) (Laminin-3 subunit gamma) (Laminin-4 subunit gamma) (Laminin-6 subunit gamma) (Laminin-7 subunit gamma) (Laminin-8 subunit gamma) (Laminin-9 subunit gamma) (S-laminin subunit gamma) (S-LAM gamma)	LAMC1 LAMB2	Homo sapiens (Human)	1609
+ITGAM	P11215	reviewed	ITAM_HUMAN	Integrin alpha-M (CD11 antigen-like family member B) (CR-3 alpha chain) (Cell surface glycoprotein MAC-1 subunit alpha) (Leukocyte adhesion receptor MO1) (Neutrophil adherence receptor) (CD antigen CD11b)	ITGAM CD11B CR3A	Homo sapiens (Human)	1152
+RALA	P11233	reviewed	RALA_HUMAN	Ras-related protein Ral-A (EC 3.6.5.2)	RALA RAL	Homo sapiens (Human)	206
+RALB	P11234	reviewed	RALB_HUMAN	Ras-related protein Ral-B (EC 3.6.5.2)	RALB	Homo sapiens (Human)	206
+FGFR1	P11362	reviewed	FGFR1_HUMAN	Fibroblast growth factor receptor 1 (FGFR-1) (EC 2.7.10.1) (Basic fibroblast growth factor receptor 1) (BFGFR) (bFGF-R-1) (Fms-like tyrosine kinase 2) (FLT-2) (N-sam) (CD antigen CD331)	FGFR1 BFGFR CEK FGFBR FLG FLT2 HBGFR	Homo sapiens (Human)	822
+COL6A1	P12109	reviewed	CO6A1_HUMAN	Collagen alpha-1(VI) chain	COL6A1	Homo sapiens (Human)	1028
+COL6A2	P12110	reviewed	CO6A2_HUMAN	Collagen alpha-2(VI) chain	COL6A2	Homo sapiens (Human)	1019
+COL6A3	P12111	reviewed	CO6A3_HUMAN	Collagen alpha-3(VI) chain	COL6A3	Homo sapiens (Human)	3177
+BMP2	P12643	reviewed	BMP2_HUMAN	Bone morphogenetic protein 2 (BMP-2) (Bone morphogenetic protein 2A) (BMP-2A)	BMP2 BMP2A	Homo sapiens (Human)	396
+ACTN1	P12814	reviewed	ACTN1_HUMAN	Alpha-actinin-1 (Alpha-actinin cytoskeletal isoform) (F-actin cross-linking protein) (Non-muscle alpha-actinin-1)	ACTN1	Homo sapiens (Human)	892
+CDH1	P12830	reviewed	CADH1_HUMAN	Cadherin-1 (CAM 120/80) (Epithelial cadherin) (E-cadherin) (Uvomorulin) (CD antigen CD324) [Cleaved into: E-Cad/CTF1; E-Cad/CTF2; E-Cad/CTF3]	CDH1 CDHE UVO	Homo sapiens (Human)	882
+SRC	P12931	reviewed	SRC_HUMAN	Proto-oncogene tyrosine-protein kinase Src (EC 2.7.10.2) (Proto-oncogene c-Src) (pp60c-src) (p60-Src)	SRC SRC1	Homo sapiens (Human)	536
+GP1BB	P13224	reviewed	GP1BB_HUMAN	Platelet glycoprotein Ib beta chain (GP-Ib beta) (GPIb-beta) (GPIbB) (Antigen CD42b-beta) (CD antigen CD42c)	GP1BB	Homo sapiens (Human)	206
+NCAM1	P13591	reviewed	NCAM1_HUMAN	Neural cell adhesion molecule 1 (N-CAM-1) (NCAM-1) (CD antigen CD56)	NCAM1 NCAM	Homo sapiens (Human)	858
+ICAM2	P13598	reviewed	ICAM2_HUMAN	Intercellular adhesion molecule 2 (ICAM-2) (CD antigen CD102)	ICAM2	Homo sapiens (Human)	275
+VCAN	P13611	reviewed	CSPG2_HUMAN	Versican core protein (Chondroitin sulfate proteoglycan core protein 2) (Chondroitin sulfate proteoglycan 2) (Glial hyaluronate-binding protein) (GHAP) (Large fibroblast proteoglycan) (PG-M)	VCAN CSPG2	Homo sapiens (Human)	3396
+ITGA4	P13612	reviewed	ITA4_HUMAN	Integrin alpha-4 (CD49 antigen-like family member D) (Integrin alpha-IV) (VLA-4 subunit alpha) (CD antigen CD49d)	ITGA4 CD49D	Homo sapiens (Human)	1032
+SELL	P14151	reviewed	LYAM1_HUMAN	L-selectin (CD62 antigen-like family member L) (Leukocyte adhesion molecule 1) (LAM-1) (Leukocyte surface antigen Leu-8) (Leukocyte-endothelial cell adhesion molecule 1) (LECAM1) (Lymph node homing receptor) (TQ1) (gp90-MEL) (CD antigen CD62L)	SELL LNHR LYAM1	Homo sapiens (Human)	372
+CD99	P14209	reviewed	CD99_HUMAN	CD99 antigen (12E7) (E2 antigen) (Protein MIC2) (T-cell surface glycoprotein E2) (CD antigen CD99)	CD99 MIC2 MIC2X MIC2Y	Homo sapiens (Human)	185
+HGF	P14210	reviewed	HGF_HUMAN	Hepatocyte growth factor (Hepatopoietin-A) (Scatter factor) (SF) [Cleaved into: Hepatocyte growth factor alpha chain; Hepatocyte growth factor beta chain]	HGF HPTA	Homo sapiens (Human)	728
+DRD2	P14416	reviewed	DRD2_HUMAN	D(2) dopamine receptor (Dopamine D2 receptor)	DRD2	Homo sapiens (Human)	443
+GP9	P14770	reviewed	GPIX_HUMAN	Platelet glycoprotein IX (GP-IX) (GPIX) (Glycoprotein 9) (CD antigen CD42a)	GP9	Homo sapiens (Human)	177
+MMP9	P14780	reviewed	MMP9_HUMAN	Matrix metalloproteinase-9 (MMP-9) (EC 3.4.24.35) (92 kDa gelatinase) (92 kDa type IV collagenase) (Gelatinase B) (GELB) [Cleaved into: 67 kDa matrix metalloproteinase-9; 82 kDa matrix metalloproteinase-9]	MMP9 CLG4B	Homo sapiens (Human)	707
+ETS1	P14921	reviewed	ETS1_HUMAN	Protein C-ets-1 (p54)	ETS1 EWSR2	Homo sapiens (Human)	441
+JUP	P14923	reviewed	PLAK_HUMAN	Junction plakoglobin (Catenin gamma) (Desmoplakin III) (Desmoplakin-3)	JUP CTNNG DP3	Homo sapiens (Human)	745
+BRAF	P15056	reviewed	BRAF_HUMAN	Serine/threonine-protein kinase B-raf (EC 2.7.11.1) (Proto-oncogene B-Raf) (p94) (v-Raf murine sarcoma viral oncogene homolog B1)	BRAF BRAF1 RAFB1	Homo sapiens (Human)	766
+PVR	P15151	reviewed	PVR_HUMAN	Poliovirus receptor (Nectin-like protein 5) (NECL-5) (CD antigen CD155)	PVR PVS	Homo sapiens (Human)	417
+RAC2	P15153	reviewed	RAC2_HUMAN	Ras-related C3 botulinum toxin substrate 2 (EC 3.6.5.2) (GX) (Small G protein) (p21-Rac2)	RAC2	Homo sapiens (Human)	192
+EZR	P15311	reviewed	EZRI_HUMAN	Ezrin (Cytovillin) (Villin-2) (p81)	EZR VIL2	Homo sapiens (Human)	586
+VAV1	P15498	reviewed	VAV_HUMAN	Proto-oncogene vav	VAV1 VAV	Homo sapiens (Human)	845
+VEGFA	P15692	reviewed	VEGFA_HUMAN	Vascular endothelial growth factor A, long form (L-VEGF) (Vascular permeability factor) (VPF) [Cleaved into: N-VEGF; VEGFA]	VEGFA VEGF	Homo sapiens (Human)	395
+CD44	P16070	reviewed	CD44_HUMAN	CD44 antigen (CDw44) (Epican) (Extracellular matrix receptor III) (ECMR-III) (GP90 lymphocyte homing/adhesion receptor) (HUTCH-I) (Heparan sulfate proteoglycan) (Hermes antigen) (Hyaluronate receptor) (Phagocytic glycoprotein 1) (PGP-1) (Phagocytic glycoprotein I) (PGP-I) (CD antigen CD44)	CD44 LHR MDU2 MDU3 MIC4	Homo sapiens (Human)	742
+SELP	P16109	reviewed	LYAM3_HUMAN	P-selectin (CD62 antigen-like family member P) (Granule membrane protein 140) (GMP-140) (Leukocyte-endothelial cell adhesion molecule 3) (LECAM3) (Platelet activation dependent granule-external membrane protein) (PADGEM) (CD antigen CD62P)	SELP GMRP GRMP	Homo sapiens (Human)	830
+ITGB4	P16144	reviewed	ITB4_HUMAN	Integrin beta-4 (GP150) (CD antigen CD104)	ITGB4	Homo sapiens (Human)	1822
+SPN	P16150	reviewed	LEUK_HUMAN	Leukosialin (GPL115) (Galactoglycoprotein) (GALGP) (Leukocyte sialoglycoprotein) (Sialophorin) (CD antigen CD43) [Cleaved into: CD43 cytoplasmic tail (CD43-ct) (CD43ct)]	SPN CD43	Homo sapiens (Human)	400
+PDGFRA	P16234	reviewed	PGFRA_HUMAN	Platelet-derived growth factor receptor alpha (PDGF-R-alpha) (PDGFR-alpha) (EC 2.7.10.1) (Alpha platelet-derived growth factor receptor) (Alpha-type platelet-derived growth factor receptor) (CD140 antigen-like family member A) (CD140a antigen) (Platelet-derived growth factor alpha receptor) (Platelet-derived growth factor receptor 2) (PDGFR-2) (CD antigen CD140a)	PDGFRA PDGFR2 RHEPDGFRA	Homo sapiens (Human)	1089
+PECAM1	P16284	reviewed	PECA1_HUMAN	Platelet endothelial cell adhesion molecule (PECAM-1) (EndoCAM) (GPIIA') (PECA1) (CD antigen CD31)	PECAM1	Homo sapiens (Human)	738
+NCK1	P16333	reviewed	NCK1_HUMAN	SH2/SH3 adapter protein NCK1 (Cytoplasmic protein NCK1) (NCK adapter protein 1) (Nck-1) (SH2/SH3 adapter protein NCK-alpha)	NCK1 NCK	Homo sapiens (Human)	377
+SELE	P16581	reviewed	LYAM2_HUMAN	E-selectin (CD62 antigen-like family member E) (Endothelial leukocyte adhesion molecule 1) (ELAM-1) (Leukocyte-endothelial cell adhesion molecule 2) (LECAM2) (CD antigen CD62E)	SELE ELAM1	Homo sapiens (Human)	610
+FER	P16591	reviewed	FER_HUMAN	Tyrosine-protein kinase Fer (EC 2.7.10.2) (Feline encephalitis virus-related kinase FER) (Fujinami poultry sarcoma/Feline sarcoma-related protein Fer) (Proto-oncogene c-Fer) (Tyrosine kinase 3) (p94-Fer)	FER TYK3	Homo sapiens (Human)	822
+CD36	P16671	reviewed	CD36_HUMAN	Platelet glycoprotein 4 (Fatty acid translocase) (FAT) (Glycoprotein IIIb) (GPIIIB) (Leukocyte differentiation antigen CD36) (PAS IV) (PAS-4) (Platelet collagen receptor) (Platelet glycoprotein IV) (GPIV) (Thrombospondin receptor) (CD antigen CD36)	CD36 GP3B GP4	Homo sapiens (Human)	472
+PRKACA	P17252	reviewed	KPCA_HUMAN	Protein kinase C alpha type (PKC-A) (PKC-alpha) (EC 2.7.11.13)	PRKCA PKCA PRKACA	Homo sapiens (Human)	672
+ITGA2	P17301	reviewed	ITA2_HUMAN	Integrin alpha-2 (CD49 antigen-like family member B) (Collagen receptor) (Platelet membrane glycoprotein Ia) (GPIa) (VLA-2 subunit alpha) (CD antigen CD49b)	ITGA2 CD49B	Homo sapiens (Human)	1181
+GJA1	P17302	reviewed	CXA1_HUMAN	Gap junction alpha-1 protein (Connexin-43) (Cx43) (Gap junction 43 kDa heart protein)	GJA1 GJAL	Homo sapiens (Human)	382
+SMPD1	P17405	reviewed	ASM_HUMAN	Sphingomyelin phosphodiesterase (EC 3.1.4.12) (EC 3.1.4.3) (Acid sphingomyelinase) (aSMase) [Cleaved into: Sphingomyelin phosphodiesterase, processed form]	SMPD1 ASM	Homo sapiens (Human)	631
+JUND	P17535	reviewed	JUND_HUMAN	Transcription factor JunD (Transcription factor AP-1 subunit JunD)	JUND	Homo sapiens (Human)	347
+PRKACA	P17612	reviewed	KAPCA_HUMAN	cAMP-dependent protein kinase catalytic subunit alpha (PKA C-alpha) (EC 2.7.11.11)	PRKACA PKACA	Homo sapiens (Human)	351
+CAPN2	P17655	reviewed	CAN2_HUMAN	Calpain-2 catalytic subunit (EC 3.4.22.53) (Calcium-activated neutral proteinase 2) (CANP 2) (Calpain M-type) (Calpain large polypeptide L2) (Calpain-2 large subunit) (Millimolar-calpain) (M-calpain)	CAPN2 CANPL2	Homo sapiens (Human)	700
+ENG	P17813	reviewed	EGLN_HUMAN	Endoglin (CD antigen CD105)	ENG END	Homo sapiens (Human)	658
+DDX5	P17844	reviewed	DDX5_HUMAN	Probable ATP-dependent RNA helicase DDX5 (EC 3.6.4.13) (DEAD box protein 5) (RNA helicase p68)	DDX5 G17P1 HELR HLR1	Homo sapiens (Human)	614
+FLT1	P17948	reviewed	VGFR1_HUMAN	Vascular endothelial growth factor receptor 1 (VEGFR-1) (EC 2.7.10.1) (Fms-like tyrosine kinase 1) (FLT-1) (Tyrosine-protein kinase FRT) (Tyrosine-protein kinase receptor FLT) (FLT) (Vascular permeability factor receptor)	FLT1 FLT FRT VEGFR1	Homo sapiens (Human)	1338
+PTPN1	P18031	reviewed	PTN1_HUMAN	Tyrosine-protein phosphatase non-receptor type 1 (EC 3.1.3.48) (Protein-tyrosine phosphatase 1B) (PTP-1B)	PTPN1 PTP1B	Homo sapiens (Human)	435
+BMP7	P18075	reviewed	BMP7_HUMAN	Bone morphogenetic protein 7 (BMP-7) (Osteogenic protein 1) (OP-1) (Eptotermin alfa)	BMP7 OP1	Homo sapiens (Human)	431
+ITGB5	P18084	reviewed	ITB5_HUMAN	Integrin beta-5	ITGB5	Homo sapiens (Human)	799
+ARF4	P18085	reviewed	ARF4_HUMAN	ADP-ribosylation factor 4	ARF4 ARF2	Homo sapiens (Human)	180
+VCL	P18206	reviewed	VINC_HUMAN	Vinculin (Metavinculin) (MV)	VCL	Homo sapiens (Human)	1134
+ITGB6	P18564	reviewed	ITB6_HUMAN	Integrin beta-6	ITGB6	Homo sapiens (Human)	788
+SDC1	P18827	reviewed	SDC1_HUMAN	Syndecan-1 (SYND1) (CD antigen CD138)	SDC1 SDC	Homo sapiens (Human)	310
+CDH2	P19022	reviewed	CADH2_HUMAN	Cadherin-2 (CDw325) (Neural cadherin) (N-cadherin) (CD antigen CD325)	CDH2 CDHN NCAD	Homo sapiens (Human)	906
+PLCG1	P19174	reviewed	PLCG1_HUMAN	1-phosphatidylinositol 4,5-bisphosphate phosphodiesterase gamma-1 (EC 3.1.4.11) (PLC-148) (Phosphoinositide phospholipase C-gamma-1) (Phospholipase C-II) (PLC-II) (Phospholipase C-gamma-1) (PLC-gamma-1)	PLCG1 PLC1	Homo sapiens (Human)	1290
+VCAM1	P19320	reviewed	VCAM1_HUMAN	Vascular cell adhesion protein 1 (V-CAM 1) (VCAM-1) (INCAM-100) (CD antigen CD106) [Cleaved into: Soluble Vascular Cell Adhesion Molecule-1]	VCAM1	Homo sapiens (Human)	739
+TNFRSF1A	P19438	reviewed	TNR1A_HUMAN	Tumor necrosis factor receptor superfamily member 1A (Tumor necrosis factor receptor 1) (TNF-R1) (Tumor necrosis factor receptor type I) (TNF-RI) (TNFR-I) (p55) (p60) (CD antigen CD120a) [Cleaved into: Tumor necrosis factor receptor superfamily member 1A, membrane form; Tumor necrosis factor-binding protein 1 (TBPI)]	TNFRSF1A TNFAR TNFR1	Homo sapiens (Human)	455
+SLC9A1	P19634	reviewed	SL9A1_HUMAN	Sodium/hydrogen exchanger 1 (APNH) (Na(+)/H(+) antiporter, amiloride-sensitive) (Na(+)/H(+) exchanger 1) (NHE-1) (Solute carrier family 9 member 1)	SLC9A1 APNH1 NHE1	Homo sapiens (Human)	815
+NFKB1	P19838	reviewed	NFKB1_HUMAN	Nuclear factor NF-kappa-B p105 subunit (DNA-binding factor KBF1) (EBP-1) (Nuclear factor of kappa light polypeptide gene enhancer in B-cells 1) [Cleaved into: Nuclear factor NF-kappa-B p50 subunit]	NFKB1	Homo sapiens (Human)	968
+CD22	P20273	reviewed	CD22_HUMAN	B-cell receptor CD22 (B-lymphocyte cell adhesion molecule) (BL-CAM) (Sialic acid-binding Ig-like lectin 2) (Siglec-2) (T-cell surface antigen Leu-14) (CD antigen CD22)	CD22 SIGLEC2	Homo sapiens (Human)	847
+RAB5A	P20339	reviewed	RAB5A_HUMAN	Ras-related protein Rab-5A (EC 3.6.5.2)	RAB5A RAB5	Homo sapiens (Human)	215
+ITGAL	P20701	reviewed	ITAL_HUMAN	Integrin alpha-L (CD11 antigen-like family member A) (Leukocyte adhesion glycoprotein LFA-1 alpha chain) (LFA-1A) (Leukocyte function-associated molecule 1 alpha chain) (CD antigen CD11a)	ITGAL CD11A	Homo sapiens (Human)	1170
+NTF3	P20783	reviewed	NTF3_HUMAN	Neurotrophin-3 (NT-3) (HDNF) (Nerve growth factor 2) (NGF-2) (Neurotrophic factor)	NTF3	Homo sapiens (Human)	257
+EFNA1	P20827	reviewed	EFNA1_HUMAN	Ephrin-A1 (EPH-related receptor tyrosine kinase ligand 1) (LERK-1) (Immediate early response protein B61) (Tumor necrosis factor alpha-induced protein 4) (TNF alpha-induced protein 4) [Cleaved into: Ephrin-A1, secreted form]	EFNA1 EPLG1 LERK1 TNFAIP4	Homo sapiens (Human)	205
+MAG	P20916	reviewed	MAG_HUMAN	Myelin-associated glycoprotein (Siglec-4a)	MAG GMA	Homo sapiens (Human)	626
+RASA1	P20936	reviewed	RASA1_HUMAN	Ras GTPase-activating protein 1 (GAP) (GTPase-activating protein) (RasGAP) (Ras p21 protein activator) (p120GAP)	RASA1 GAP RASA	Homo sapiens (Human)	1047
+FLNA	P21333	reviewed	FLNA_HUMAN	Filamin-A (FLN-A) (Actin-binding protein 280) (ABP-280) (Alpha-filamin) (Endothelial actin-binding protein) (Filamin-1) (Non-muscle filamin)	FLNA FLN FLN1	Homo sapiens (Human)	2647
+NF1	P21359	reviewed	NF1_HUMAN	Neurofibromin (Neurofibromatosis-related protein NF-1) [Cleaved into: Neurofibromin truncated]	NF1	Homo sapiens (Human)	2839
+S1PR1	P21453	reviewed	S1PR1_HUMAN	Sphingosine 1-phosphate receptor 1 (S1P receptor 1) (S1P1) (Endothelial differentiation G protein-coupled receptor 1) (Sphingosine 1-phosphate receptor Edg-1) (S1P receptor Edg-1) (CD antigen CD363)	S1PR1 CHEDG1 EDG1	Homo sapiens (Human)	382
+FPR1	P21462	reviewed	FPR1_HUMAN	N-formyl peptide receptor 1 (N-formylpeptide chemoattractant receptor) (fMet-Leu-Phe receptor) (fMLP receptor)	FPR1	Homo sapiens (Human)	350
+CNR1	P21554	reviewed	CNR1_HUMAN	Cannabinoid receptor 1 (CB-R) (CB1) (CANN6)	CNR1 CNR	Homo sapiens (Human)	472
+KITLG	P21583	reviewed	SCF_HUMAN	Kit ligand (Mast cell growth factor) (MGF) (Stem cell factor) (SCF) (c-Kit ligand) [Cleaved into: Soluble KIT ligand (sKITLG)]	KITLG MGF SCF	Homo sapiens (Human)	273
+EPHA1	P21709	reviewed	EPHA1_HUMAN	Ephrin type-A receptor 1 (hEpha1) (EC 2.7.10.1) (EPH tyrosine kinase) (EPH tyrosine kinase 1) (Erythropoietin-producing hepatoma receptor) (Tyrosine-protein kinase receptor EPH)	EPHA1 EPH EPHT EPHT1	Homo sapiens (Human)	976
+DRD1	P21728	reviewed	DRD1_HUMAN	D(1A) dopamine receptor (Dopamine D1 receptor)	DRD1	Homo sapiens (Human)	446
+MDK	P21741	reviewed	MK_HUMAN	Midkine (MK) (Amphiregulin-associated protein) (ARAP) (Midgestation and kidney protein) (Neurite outgrowth-promoting factor 2) (Neurite outgrowth-promoting protein)	MDK MK1 NEGF2	Homo sapiens (Human)	143
+FGFR2	P21802	reviewed	FGFR2_HUMAN	Fibroblast growth factor receptor 2 (FGFR-2) (EC 2.7.10.1) (K-sam) (KGFR) (Keratinocyte growth factor receptor) (CD antigen CD332)	FGFR2 BEK KGFR KSAM	Homo sapiens (Human)	821
+IBSP	P21815	reviewed	SIAL_HUMAN	Integrin-binding sialoprotein (Bone sialoprotein 2) (Bone sialoprotein II) (BSP II) (Cell-binding sialoprotein)	IBSP BNSP	Homo sapiens (Human)	317
+ERBB3	P21860	reviewed	ERBB3_HUMAN	Receptor tyrosine-protein kinase erbB-3 (EC 2.7.10.1) (Proto-oncogene-like protein c-ErbB-3) (Tyrosine kinase-type cell surface receptor HER3)	ERBB3 HER3	Homo sapiens (Human)	1342
+TNXB	P22105	reviewed	TENX_HUMAN	Tenascin-X (TN-X) (Hexabrachion-like protein)	TNXB HXBL TNX TNXB1 TNXB2 XB	Homo sapiens (Human)	4244
+CDH3	P22223	reviewed	CADH3_HUMAN	Cadherin-3 (Placental cadherin) (P-cadherin)	CDH3 CDHP	Homo sapiens (Human)	829
+FGFR4	P22455	reviewed	FGFR4_HUMAN	Fibroblast growth factor receptor 4 (FGFR-4) (EC 2.7.10.1) (CD antigen CD334)	FGFR4 JTK2 TKF	Homo sapiens (Human)	802
+CBL	P22681	reviewed	CBL_HUMAN	E3 ubiquitin-protein ligase CBL (EC 2.3.2.27) (Casitas B-lineage lymphoma proto-oncogene) (Proto-oncogene c-Cbl) (RING finger protein 55) (RING-type E3 ubiquitin transferase CBL) (Signal transduction protein CBL)	CBL CBL2 RNF55	Homo sapiens (Human)	906
+PRKACB	P22694	reviewed	KAPCB_HUMAN	cAMP-dependent protein kinase catalytic subunit beta (PKA C-beta) (EC 2.7.11.11)	PRKACB	Homo sapiens (Human)	351
+ITGA6	P23229	reviewed	ITA6_HUMAN	Integrin alpha-6 (CD49 antigen-like family member F) (VLA-6) (CD antigen CD49f) [Cleaved into: Integrin alpha-6 heavy chain; Integrin alpha-6 light chain; Processed integrin alpha-6 (Alpha6p)]	ITGA6	Homo sapiens (Human)	1130
+RPS6KB1	P23443	reviewed	KS6B1_HUMAN	Ribosomal protein S6 kinase beta-1 (S6K-beta-1) (S6K1) (EC 2.7.11.1) (70 kDa ribosomal protein S6 kinase 1) (P70S6K1) (p70-S6K 1) (Ribosomal protein S6 kinase I) (Serine/threonine-protein kinase 14A) (p70 ribosomal S6 kinase alpha) (p70 S6 kinase alpha) (p70 S6K-alpha) (p70 S6KA)	RPS6KB1 STK14A	Homo sapiens (Human)	525
+PTPRB	P23467	reviewed	PTPRB_HUMAN	Receptor-type tyrosine-protein phosphatase beta (Protein-tyrosine phosphatase beta) (R-PTP-beta) (EC 3.1.3.48) (Vascular endothelial protein tyrosine phosphatase) (VE-PTP)	PTPRB PTPB	Homo sapiens (Human)	1997
+OMG	P23515	reviewed	OMGP_HUMAN	Oligodendrocyte-myelin glycoprotein	OMG OMGP	Homo sapiens (Human)	440
+CFL1	P23528	reviewed	COF1_HUMAN	Cofilin-1 (18 kDa phosphoprotein) (p18) (Cofilin, non-muscle isoform)	CFL1 CFL	Homo sapiens (Human)	166
+BDNF	P23560	reviewed	BDNF_HUMAN	Neurotrophic factor BDNF precursor form (proBDNF) (Abrineurin) (Brain-derived neurotrophic factor) [Cleaved into: Neurotrophic factor BDNF]	BDNF	Homo sapiens (Human)	247
+LAMA2	P24043	reviewed	LAMA2_HUMAN	Laminin subunit alpha-2 (Laminin M chain) (Laminin-12 subunit alpha) (Laminin-2 subunit alpha) (Laminin-4 subunit alpha) (Merosin heavy chain)	LAMA2 LAMM	Homo sapiens (Human)	3122
+CCND1	P24385	reviewed	CCND1_HUMAN	G1/S-specific cyclin-D1 (B-cell lymphoma 1 protein) (BCL-1) (BCL-1 oncogene) (PRAD1 oncogene)	CCND1 BCL1 PRAD1	Homo sapiens (Human)	295
+PRKCH	P24723	reviewed	KPCL_HUMAN	Protein kinase C eta type (EC 2.7.11.13) (PKC-L) (nPKC-eta)	PRKCH PKCL PRKCL	Homo sapiens (Human)	683
+TNC	P24821	reviewed	TENA_HUMAN	Tenascin (TN) (Cytotactin) (GMEM) (GP 150-225) (Glioma-associated-extracellular matrix antigen) (Hexabrachion) (JI) (Myotendinous antigen) (Neuronectin) (Tenascin-C) (TN-C)	TNC HXB	Homo sapiens (Human)	2201
+MYL9	P24844	reviewed	MYL9_HUMAN	Myosin regulatory light polypeptide 9 (20 kDa myosin light chain) (LC20) (MLC-2C) (Myosin RLC) (Myosin regulatory light chain 2, smooth muscle isoform) (Myosin regulatory light chain 9) (Myosin regulatory light chain MRLC1)	MYL9 MLC2 MRLC1 MYRL2	Homo sapiens (Human)	172
+APC	P25054	reviewed	APC_HUMAN	Adenomatous polyposis coli protein (Protein APC) (Deleted in polyposis 2.5)	APC DP2.5	Homo sapiens (Human)	2843
+FPR2	P25090	reviewed	FPR2_HUMAN	N-formyl peptide receptor 2 (FMLP-related receptor I) (FMLP-R-I) (Formyl peptide receptor-like 1) (HM63) (Lipoxin A4 receptor) (ALX) (LXA4 receptor) (RFP)	FPR2 FPRH1 FPRL1 LXA4R	Homo sapiens (Human)	351
+ACKR3	P25106	reviewed	ACKR3_HUMAN	Atypical chemokine receptor 3 (C-X-C chemokine receptor type 7) (CXC-R7) (CXCR-7) (Chemokine orphan receptor 1) (G protein-coupled receptor 159) (G protein-coupled receptor RDC1 homolog) (RDC-1)	ACKR3 CMKOR1 CXCR7 GPR159 RDC1	Homo sapiens (Human)	362
+F2R	P25116	reviewed	PAR1_HUMAN	Proteinase-activated receptor 1 (PAR-1) (Coagulation factor II receptor) (Thrombin receptor)	F2R CF2R PAR1 TR	Homo sapiens (Human)	425
+LAMA1	P25391	reviewed	LAMA1_HUMAN	Laminin subunit alpha-1 (Laminin A chain) (Laminin-1 subunit alpha) (Laminin-3 subunit alpha) (S-laminin subunit alpha) (S-LAM alpha)	LAMA1 LAMA	Homo sapiens (Human)	3075
+FAS	P25445	reviewed	TNR6_HUMAN	Tumor necrosis factor receptor superfamily member 6 (Apo-1 antigen) (Apoptosis-mediating surface antigen FAS) (FASLG receptor) (CD antigen CD95)	FAS APT1 FAS1 TNFRSF6	Homo sapiens (Human)	335
+ITGA3	P26006	reviewed	ITA3_HUMAN	Integrin alpha-3 (CD49 antigen-like family member C) (FRP-2) (Galactoprotein B3) (GAPB3) (VLA-3 subunit alpha) (CD antigen CD49c) [Cleaved into: Integrin alpha-3 heavy chain; Integrin alpha-3 light chain]	ITGA3 MSK18	Homo sapiens (Human)	1051
+ITGB7	P26010	reviewed	ITB7_HUMAN	Integrin beta-7 (Gut homing receptor beta subunit)	ITGB7	Homo sapiens (Human)	798
+ITGB8	P26012	reviewed	ITB8_HUMAN	Integrin beta-8	ITGB8	Homo sapiens (Human)	769
+MSN	P26038	reviewed	MOES_HUMAN	Moesin (Membrane-organizing extension spike protein)	MSN	Homo sapiens (Human)	577
+CTNNA2	P26232	reviewed	CTNA2_HUMAN	Catenin alpha-2 (Alpha N-catenin) (Alpha-catenin-related protein)	CTNNA2 CAPR	Homo sapiens (Human)	953
+ACVR2A	P27037	reviewed	AVR2A_HUMAN	Activin receptor type-2A (EC 2.7.11.30) (Activin receptor type IIA) (ACTR-IIA) (ACTRIIA)	ACVR2A ACVR2	Homo sapiens (Human)	513
+MAPK3	P27361	reviewed	MK03_HUMAN	Mitogen-activated protein kinase 3 (MAP kinase 3) (MAPK 3) (EC 2.7.11.24) (ERT2) (Extracellular signal-regulated kinase 1) (ERK-1) (Insulin-stimulated MAP2 kinase) (MAP kinase isoform p44) (p44-MAPK) (Microtubule-associated protein 2 kinase) (p44-ERK1)	MAPK3 ERK1 PRKM3	Homo sapiens (Human)	379
+DPP4	P27487	reviewed	DPP4_HUMAN	Dipeptidyl peptidase 4 (EC 3.4.14.5) (ADABP) (Adenosine deaminase complexing protein 2) (ADCP-2) (Dipeptidyl peptidase IV) (DPP IV) (T-cell activation antigen CD26) (TP103) (CD antigen CD26) [Cleaved into: Dipeptidyl peptidase 4 membrane form (Dipeptidyl peptidase IV membrane form); Dipeptidyl peptidase 4 soluble form (Dipeptidyl peptidase IV soluble form)]	DPP4 ADCP2 CD26	Homo sapiens (Human)	766
+PIK3R1	P27986	reviewed	P85A_HUMAN	Phosphatidylinositol 3-kinase regulatory subunit alpha (PI3-kinase regulatory subunit alpha) (PI3K regulatory subunit alpha) (PtdIns-3-kinase regulatory subunit alpha) (Phosphatidylinositol 3-kinase 85 kDa regulatory subunit alpha) (PI3-kinase subunit p85-alpha) (PtdIns-3-kinase regulatory subunit p85-alpha)	PIK3R1 GRB1	Homo sapiens (Human)	724
+MAPK1	P28482	reviewed	MK01_HUMAN	Mitogen-activated protein kinase 1 (MAP kinase 1) (MAPK 1) (EC 2.7.11.24) (ERT1) (Extracellular signal-regulated kinase 2) (ERK-2) (MAP kinase isoform p42) (p42-MAPK) (Mitogen-activated protein kinase 2) (MAP kinase 2) (MAPK 2)	MAPK1 ERK2 PRKM1 PRKM2	Homo sapiens (Human)	360
+DUSP1	P28562	reviewed	DUS1_HUMAN	Dual specificity protein phosphatase 1 (EC 3.1.3.16) (EC 3.1.3.48) (Dual specificity protein phosphatase hVH1) (Mitogen-activated protein kinase phosphatase 1) (MAP kinase phosphatase 1) (MKP-1) (Protein-tyrosine phosphatase CL100)	DUSP1 CL100 MKP1 PTPN10 VH1	Homo sapiens (Human)	367
+PTPRM	P28827	reviewed	PTPRM_HUMAN	Receptor-type tyrosine-protein phosphatase mu (Protein-tyrosine phosphatase mu) (R-PTP-mu) (EC 3.1.3.48)	PTPRM PTPRL1	Homo sapiens (Human)	1452
+CD34	P28906	reviewed	CD34_HUMAN	Hematopoietic progenitor cell antigen CD34 (CD antigen CD34)	CD34	Homo sapiens (Human)	385
+EPHA2	P29317	reviewed	EPHA2_HUMAN	Ephrin type-A receptor 2 (EC 2.7.10.1) (Epithelial cell kinase) (Tyrosine-protein kinase receptor ECK)	EPHA2 ECK	Homo sapiens (Human)	976
+EPHA3	P29320	reviewed	EPHA3_HUMAN	Ephrin type-A receptor 3 (EC 2.7.10.1) (EPH-like kinase 4) (EK4) (hEK4) (HEK) (Human embryo kinase) (Tyrosine-protein kinase TYRO4) (Tyrosine-protein kinase receptor ETK1) (Eph-like tyrosine kinase 1)	EPHA3 ETK ETK1 HEK TYRO4	Homo sapiens (Human)	983
+EPHA8	P29322	reviewed	EPHA8_HUMAN	Ephrin type-A receptor 8 (EC 2.7.10.1) (EPH- and ELK-related kinase) (EPH-like kinase 3) (EK3) (hEK3) (Tyrosine-protein kinase receptor EEK)	EPHA8 EEK HEK3 KIAA1459	Homo sapiens (Human)	1005
+EPHB2	P29323	reviewed	EPHB2_HUMAN	Ephrin type-B receptor 2 (EC 2.7.10.1) (Developmentally-regulated Eph-related tyrosine kinase) (ELK-related tyrosine kinase) (EPH tyrosine kinase 3) (EPH-like kinase 5) (EK5) (hEK5) (Renal carcinoma antigen NY-REN-47) (Tyrosine-protein kinase TYRO5) (Tyrosine-protein kinase receptor EPH-3) [Cleaved into: EphB2/CTF1; EphB2/CTF2]	EPHB2 DRT EPHT3 EPTH3 ERK HEK5 TYRO5	Homo sapiens (Human)	1055
+PTPN6	P29350	reviewed	PTN6_HUMAN	Tyrosine-protein phosphatase non-receptor type 6 (EC 3.1.3.48) (Hematopoietic cell protein-tyrosine phosphatase) (Protein-tyrosine phosphatase 1C) (PTP-1C) (Protein-tyrosine phosphatase SHP-1) (SH-PTP1)	PTPN6 HCP PTP1C	Homo sapiens (Human)	595
+SHC1	P29353	reviewed	SHC1_HUMAN	SHC-transforming protein 1 (SHC-transforming protein 3) (SHC-transforming protein A) (Src homology 2 domain-containing-transforming protein C1) (SH2 domain protein C1)	SHC1 SHC SHCA	Homo sapiens (Human)	583
+IL12B	P29460	reviewed	IL12B_HUMAN	Interleukin-12 subunit beta (IL-12B) (Cytotoxic lymphocyte maturation factor 40 kDa subunit) (CLMF p40) (IL-12 subunit p40) (NK cell stimulatory factor chain 2) (NKSF2)	IL12B NKSF2	Homo sapiens (Human)	328
+NOS3	P29474	reviewed	NOS3_HUMAN	Nitric oxide synthase 3 (EC 1.14.13.39) (Constitutive NOS) (cNOS) (EC-NOS) (NOS type III) (NOSIII) (Nitric oxide synthase, endothelial) (Endothelial NOS) (eNOS)	NOS3	Homo sapiens (Human)	1203
+GNA11	P29992	reviewed	GNA11_HUMAN	Guanine nucleotide-binding protein subunit alpha-11 (G alpha-11) (G protein subunit alpha-11) (EC 3.6.5.-) (Guanine nucleotide-binding protein G(y) subunit alpha)	GNA11 GA11	Homo sapiens (Human)	359
+PPP2R1A	P30153	reviewed	2AAA_HUMAN	Serine/threonine-protein phosphatase 2A 65 kDa regulatory subunit A alpha isoform (PP2Aa) (Medium tumor antigen-associated 61 kDa protein) (PP2A subunit A isoform PR65-alpha) (PP2A subunit A isoform R1-alpha)	PPP2R1A	Homo sapiens (Human)	589
+CD6	P30203	reviewed	CD6_HUMAN	T-cell differentiation antigen CD6 (T12) (TP120) (CD antigen CD6) [Cleaved into: Soluble CD6]	CD6	Homo sapiens (Human)	668
+SDC4	P31431	reviewed	SDC4_HUMAN	Syndecan-4 (SYND4) (Amphiglycan) (Ryudocan core protein)	SDC4	Homo sapiens (Human)	198
+AKT1	P31749	reviewed	AKT1_HUMAN	RAC-alpha serine/threonine-protein kinase (EC 2.7.11.1) (Protein kinase B) (PKB) (Protein kinase B alpha) (PKB alpha) (Proto-oncogene c-Akt) (RAC-PK-alpha)	AKT1 PKB RAC	Homo sapiens (Human)	480
+AKT2	P31751	reviewed	AKT2_HUMAN	RAC-beta serine/threonine-protein kinase (EC 2.7.11.1) (Protein kinase Akt-2) (Protein kinase B beta) (PKB beta) (RAC protein kinase beta) (RAC-PK-beta)	AKT2	Homo sapiens (Human)	481
+L1CAM	P32004	reviewed	L1CAM_HUMAN	Neural cell adhesion molecule L1 (N-CAM-L1) (NCAM-L1) (CD antigen CD171)	L1CAM CAML1 MIC5	Homo sapiens (Human)	1257
+ARRB2	P32121	reviewed	ARRB2_HUMAN	Beta-arrestin-2 (Arrestin beta-2) (Non-visual arrestin-3)	ARRB2 ARB2 ARR2	Homo sapiens (Human)	409
+ICAM3	P32942	reviewed	ICAM3_HUMAN	Intercellular adhesion molecule 3 (ICAM-3) (CDw50) (ICAM-R) (CD antigen CD50)	ICAM3	Homo sapiens (Human)	547
+CDH5	P33151	reviewed	CADH5_HUMAN	Cadherin-5 (7B4 antigen) (Vascular endothelial cadherin) (VE-cadherin) (CD antigen CD144)	CDH5	Homo sapiens (Human)	784
+CD80	P33681	reviewed	CD80_HUMAN	T-lymphocyte activation antigen CD80 (Activation B7-1 antigen) (BB1) (CTLA-4 counter-receptor B7.1) (B7) (CD antigen CD80)	CD80 CD28LG CD28LG1 LAB7	Homo sapiens (Human)	288
+SDC2	P34741	reviewed	SDC2_HUMAN	Syndecan-2 (SYND2) (Fibroglycan) (Heparan sulfate proteoglycan core protein) (HSPG) (CD antigen CD362)	SDC2 HSPG1	Homo sapiens (Human)	201
+GPC1	P35052	reviewed	GPC1_HUMAN	Glypican-1 [Cleaved into: Secreted glypican-1]	GPC1	Homo sapiens (Human)	558
+CTNNA1	P35221	reviewed	CTNA1_HUMAN	Catenin alpha-1 (Alpha E-catenin) (Cadherin-associated protein) (Renal carcinoma antigen NY-REN-13)	CTNNA1	Homo sapiens (Human)	906
+CTNNB1	P35222	reviewed	CTNB1_HUMAN	Catenin beta-1 (Beta-catenin)	CTNNB1 CTNNB OK/SW-cl.35 PRO2286	Homo sapiens (Human)	781
+RDX	P35241	reviewed	RADI_HUMAN	Radixin	RDX	Homo sapiens (Human)	583
+THBS2	P35442	reviewed	TSP2_HUMAN	Thrombospondin-2	THBS2 TSP2	Homo sapiens (Human)	1172
+THBS4	P35443	reviewed	TSP4_HUMAN	Thrombospondin-4	THBS4 TSP4	Homo sapiens (Human)	961
+MYH9	P35579	reviewed	MYH9_HUMAN	Myosin-9 (Cellular myosin heavy chain, type A) (Myosin heavy chain 9) (Myosin heavy chain, non-muscle IIa) (Non-muscle myosin heavy chain A) (NMMHC-A) (Non-muscle myosin heavy chain IIa) (NMMHC II-a) (NMMHC-IIA)	MYH9	Homo sapiens (Human)	1960
+MYH10	P35580	reviewed	MYH10_HUMAN	Myosin-10 (Cellular myosin heavy chain, type B) (Myosin heavy chain 10) (Myosin heavy chain, non-muscle IIb) (Non-muscle myosin heavy chain B) (NMMHC-B) (Non-muscle myosin heavy chain IIb) (NMMHC II-b) (NMMHC-IIB)	MYH10	Homo sapiens (Human)	1976
+ACTN2	P35609	reviewed	ACTN2_HUMAN	Alpha-actinin-2 (Alpha-actinin skeletal muscle isoform 2) (F-actin cross-linking protein)	ACTN2	Homo sapiens (Human)	894
+BSG	P35613	reviewed	BASI_HUMAN	Basigin (5F7) (Collagenase stimulatory factor) (Extracellular matrix metalloproteinase inducer) (EMMPRIN) (Hepatoma-associated antigen) (HAb18G) (Leukocyte activation antigen M6) (OK blood group antigen) (Tumor cell-derived collagenase stimulatory factor) (TCSF) (CD antigen CD147)	BSG UNQ6505/PRO21383	Homo sapiens (Human)	385
+FLT4	P35916	reviewed	VGFR3_HUMAN	Vascular endothelial growth factor receptor 3 (VEGFR-3) (EC 2.7.10.1) (Fms-like tyrosine kinase 4) (FLT-4) (Tyrosine-protein kinase receptor FLT4)	FLT4 VEGFR3	Homo sapiens (Human)	1363
+KDR	P35968	reviewed	VGFR2_HUMAN	Vascular endothelial growth factor receptor 2 (VEGFR-2) (EC 2.7.10.1) (Fetal liver kinase 1) (FLK-1) (Kinase insert domain receptor) (KDR) (Protein-tyrosine kinase receptor flk-1) (CD antigen CD309)	KDR FLK1 VEGFR2	Homo sapiens (Human)	1356
+MAP2K2	P36507	reviewed	MP2K2_HUMAN	Dual specificity mitogen-activated protein kinase kinase 2 (MAP kinase kinase 2) (MAPKK 2) (EC 2.7.12.2) (ERK activator kinase 2) (MAPK/ERK kinase 2) (MEK 2)	MAP2K2 MEK2 MKK2 PRKMK2	Homo sapiens (Human)	400
+BMPR1A	P36894	reviewed	BMR1A_HUMAN	Bone morphogenetic protein receptor type-1A (BMP type-1A receptor) (BMPR-1A) (EC 2.7.11.30) (Activin receptor-like kinase 3) (ALK-3) (Serine/threonine-protein kinase receptor R5) (SKR5) (CD antigen CD292)	BMPR1A ACVRLK3 ALK3	Homo sapiens (Human)	532
+TGFBR1	P36897	reviewed	TGFR1_HUMAN	TGF-beta receptor type-1 (TGFR-1) (EC 2.7.11.30) (Activin A receptor type II-like protein kinase of 53kD) (Activin receptor-like kinase 5) (ALK-5) (ALK5) (Serine/threonine-protein kinase receptor R4) (SKR4) (TGF-beta type I receptor) (Transforming growth factor-beta receptor type I) (TGF-beta receptor type I) (TbetaR-I)	TGFBR1 ALK5 SKR4	Homo sapiens (Human)	503
+ACVRL1	P37023	reviewed	ACVL1_HUMAN	Activin receptor type-1-like (EC 2.7.11.30) (Activin receptor-like kinase 1) (ALK-1) (Serine/threonine-protein kinase receptor R3) (SKR3) (TGF-B superfamily receptor type I) (TSR-I)	ACVRL1 ACVRLK1 ALK1	Homo sapiens (Human)	503
+TGFBR2	P37173	reviewed	TGFR2_HUMAN	TGF-beta receptor type-2 (TGFR-2) (EC 2.7.11.30) (TGF-beta type II receptor) (Transforming growth factor-beta receptor type II) (TGF-beta receptor type II) (TbetaR-II)	TGFBR2	Homo sapiens (Human)	567
+ITGAE	P38570	reviewed	ITAE_HUMAN	Integrin alpha-E (HML-1 antigen) (Integrin alpha-IEL) (Mucosal lymphocyte 1 antigen) (CD antigen CD103)	ITGAE	Homo sapiens (Human)	1179
+CDKN1A	P38936	reviewed	CDN1A_HUMAN	Cyclin-dependent kinase inhibitor 1 (CDK-interacting protein 1) (Melanoma differentiation-associated protein 6) (MDA-6) (p21)	CDKN1A CAP20 CDKN1 CIP1 MDA6 PIC1 SDI1 WAF1	Homo sapiens (Human)	164
+GP5	P40197	reviewed	GPV_HUMAN	Platelet glycoprotein V (GPV) (Glycoprotein 5) (CD antigen CD42d)	GP5	Homo sapiens (Human)	560
+STAT3	P40763	reviewed	STAT3_HUMAN	Signal transducer and activator of transcription 3 (Acute-phase response factor)	STAT3 APRF	Homo sapiens (Human)	770
+ID1	P41134	reviewed	ID1_HUMAN	DNA-binding protein inhibitor ID-1 (Class B basic helix-loop-helix protein 24) (bHLHb24) (Inhibitor of DNA binding 1) (Inhibitor of differentiation 1)	ID1 BHLHB24 ID	Homo sapiens (Human)	155
+WNT5A	P41221	reviewed	WNT5A_HUMAN	Protein Wnt-5a	WNT5A	Homo sapiens (Human)	380
+MAP3K8	P41279	reviewed	M3K8_HUMAN	Mitogen-activated protein kinase kinase kinase 8 (EC 2.7.11.25) (Cancer Osaka thyroid oncogene) (Proto-oncogene c-Cot) (Serine/threonine-protein kinase cot) (Tumor progression locus 2) (TPL-2)	MAP3K8 COT ESTF	Homo sapiens (Human)	467
+PRKCI	P41743	reviewed	KPCI_HUMAN	Protein kinase C iota type (EC 2.7.11.13) (Atypical protein kinase C-lambda/iota) (PRKC-lambda/iota) (aPKC-lambda/iota) (nPKC-iota)	PRKCI DXS1179E	Homo sapiens (Human)	596
+CD86	P42081	reviewed	CD86_HUMAN	T-lymphocyte activation antigen CD86 (Activation B7-2 antigen) (B70) (BU63) (CTLA-4 counter-receptor B7.2) (FUN-1) (CD antigen CD86)	CD86 CD28LG2	Homo sapiens (Human)	329
+PIK3CA	P42336	reviewed	PK3CA_HUMAN	Phosphatidylinositol 4,5-bisphosphate 3-kinase catalytic subunit alpha isoform (PI3-kinase subunit alpha) (PI3K-alpha) (PI3Kalpha) (PtdIns-3-kinase subunit alpha) (EC 2.7.1.137) (EC 2.7.1.153) (Phosphatidylinositol 4,5-bisphosphate 3-kinase 110 kDa catalytic subunit alpha) (PtdIns-3-kinase subunit p110-alpha) (p110alpha) (Phosphoinositide 3-kinase alpha) (Phosphoinositide-3-kinase catalytic alpha polypeptide) (Serine/threonine protein kinase PIK3CA) (EC 2.7.11.1)	PIK3CA	Homo sapiens (Human)	1068
+PIK3CB	P42338	reviewed	PK3CB_HUMAN	Phosphatidylinositol 4,5-bisphosphate 3-kinase catalytic subunit beta isoform (PI3-kinase subunit beta) (PI3K-beta) (PI3Kbeta) (PtdIns-3-kinase subunit beta) (EC 2.7.1.153) (Phosphatidylinositol 4,5-bisphosphate 3-kinase 110 kDa catalytic subunit beta) (PtdIns-3-kinase subunit p110-beta) (p110beta) (Serine/threonine protein kinase PIK3CB) (EC 2.7.11.1)	PIK3CB PIK3C1	Homo sapiens (Human)	1070
+MTOR	P42345	reviewed	MTOR_HUMAN	Serine/threonine-protein kinase mTOR (EC 2.7.11.1) (FK506-binding protein 12-rapamycin complex-associated protein 1) (FKBP12-rapamycin complex-associated protein) (Mammalian target of rapamycin) (mTOR) (Mechanistic target of rapamycin) (Rapamycin and FKBP12 target 1) (Rapamycin target protein 1) (Tyrosine-protein kinase mTOR) (EC 2.7.10.2)	MTOR FRAP FRAP1 FRAP2 RAFT1 RAPT1	Homo sapiens (Human)	2549
+CASP3	P42574	reviewed	CASP3_HUMAN	Caspase-3 (CASP-3) (EC 3.4.22.56) (Apopain) (Cysteine protease CPP32) (CPP-32) (Protein Yama) (SREBP cleavage activity 1) (SCA-1) [Cleaved into: Caspase-3 subunit p17; Caspase-3 subunit p12]	CASP3 CPP32	Homo sapiens (Human)	277
+ABL2	P42684	reviewed	ABL2_HUMAN	Tyrosine-protein kinase ABL2 (EC 2.7.10.2) (Abelson murine leukemia viral oncogene homolog 2) (Abelson tyrosine-protein kinase 2) (Abelson-related gene protein) (Tyrosine-protein kinase ARG)	ABL2 ABLL ARG	Homo sapiens (Human)	1182
+WAS	P42768	reviewed	WASP_HUMAN	Actin nucleation-promoting factor WAS (Wiskott-Aldrich syndrome protein) (WASp)	WAS IMD2	Homo sapiens (Human)	502
+PAFAH1B1	P43034	reviewed	LIS1_HUMAN	Platelet-activating factor acetylhydrolase IB subunit beta (Lissencephaly-1 protein) (LIS-1) (PAF acetylhydrolase 45 kDa subunit) (PAF-AH 45 kDa subunit) (PAF-AH alpha) (PAFAH alpha)	PAFAH1B1 LIS1 MDCR MDS PAFAHA	Homo sapiens (Human)	410
+ZAP70	P43403	reviewed	ZAP70_HUMAN	Tyrosine-protein kinase ZAP-70 (EC 2.7.10.2) (70 kDa zeta-chain associated protein) (Syk-related tyrosine kinase)	ZAP70 SRK	Homo sapiens (Human)	619
+MAPK8	P45983	reviewed	MK08_HUMAN	Mitogen-activated protein kinase 8 (MAP kinase 8) (MAPK 8) (EC 2.7.11.24) (JNK-46) (Stress-activated protein kinase 1c) (SAPK1c) (Stress-activated protein kinase JNK1) (c-Jun N-terminal kinase 1)	MAPK8 JNK1 PRKM8 SAPK1 SAPK1C	Homo sapiens (Human)	427
+MAPK9	P45984	reviewed	MK09_HUMAN	Mitogen-activated protein kinase 9 (MAP kinase 9) (MAPK 9) (EC 2.7.11.24) (JNK-55) (Stress-activated protein kinase 1a) (SAPK1a) (Stress-activated protein kinase JNK2) (c-Jun N-terminal kinase 2)	MAPK9 JNK2 PRKM9 SAPK1A	Homo sapiens (Human)	424
+MAP2K4	P45985	reviewed	MP2K4_HUMAN	Dual specificity mitogen-activated protein kinase kinase 4 (MAP kinase kinase 4) (MAPKK 4) (EC 2.7.12.2) (JNK-activating kinase 1) (MAPK/ERK kinase 4) (MEK 4) (SAPK/ERK kinase 1) (SEK1) (Stress-activated protein kinase kinase 1) (SAPK kinase 1) (SAPKK-1) (SAPKK1) (c-Jun N-terminal kinase kinase 1) (JNKK)	MAP2K4 JNKK1 MEK4 MKK4 PRKMK4 SEK1 SERK1 SKK1	Homo sapiens (Human)	399
+CRK	P46108	reviewed	CRK_HUMAN	Adapter molecule crk (Proto-oncogene c-Crk) (p38)	CRK	Homo sapiens (Human)	304
+CRKL	P46109	reviewed	CRKL_HUMAN	Crk-like protein	CRKL	Homo sapiens (Human)	303
+CDKN1B	P46527	reviewed	CDN1B_HUMAN	Cyclin-dependent kinase inhibitor 1B (Cyclin-dependent kinase inhibitor p27) (p27Kip1)	CDKN1B KIP1 p27	Homo sapiens (Human)	198
+MAP2K3	P46734	reviewed	MP2K3_HUMAN	Dual specificity mitogen-activated protein kinase kinase 3 (MAP kinase kinase 3) (MAPKK 3) (EC 2.7.12.2) (MAPK/ERK kinase 3) (MEK 3) (Stress-activated protein kinase kinase 2) (SAPK kinase 2) (SAPKK-2) (SAPKK2)	MAP2K3 MEK3 MKK3 PRKMK3 SKK2	Homo sapiens (Human)	347
+IQGAP1	P46940	reviewed	IQGA1_HUMAN	Ras GTPase-activating-like protein IQGAP1 (p195)	IQGAP1 KIAA0051	Homo sapiens (Human)	1657
+P2RY1	P47900	reviewed	P2RY1_HUMAN	P2Y purinoceptor 1 (P2Y1) (ADP receptor) (Purinergic receptor)	P2RY1	Homo sapiens (Human)	373
+FASLG	P48023	reviewed	TNFL6_HUMAN	Tumor necrosis factor ligand superfamily member 6 (Apoptosis antigen ligand) (APTL) (CD95 ligand) (CD95-L) (Fas antigen ligand) (Fas ligand) (FasL) (CD antigen CD178) [Cleaved into: Tumor necrosis factor ligand superfamily member 6, membrane form; Tumor necrosis factor ligand superfamily member 6, soluble form (Receptor-binding FasL ectodomain) (Soluble Fas ligand) (sFasL); ADAM10-processed FasL form (APL); FasL intracellular domain (FasL ICD) (SPPL2A-processed FasL form) (SPA)]	FASLG APT1LG1 CD95L FASL TNFSF6	Homo sapiens (Human)	281
+CXCL12	P48061	reviewed	SDF1_HUMAN	Stromal cell-derived factor 1 (SDF-1) (hSDF-1) (C-X-C motif chemokine 12) (Intercrine reduced in hepatomas) (IRH) (hIRH) (Pre-B cell growth-stimulating factor) (PBSF) [Cleaved into: SDF-1-beta(3-72); SDF-1-alpha(3-67)]	CXCL12 SDF1 SDF1A SDF1B	Homo sapiens (Human)	93
+PIK3CG	P48736	reviewed	PK3CG_HUMAN	Phosphatidylinositol 4,5-bisphosphate 3-kinase catalytic subunit gamma isoform (PI3-kinase subunit gamma) (PI3K-gamma) (PI3Kgamma) (PtdIns-3-kinase subunit gamma) (EC 2.7.1.137) (EC 2.7.1.153) (EC 2.7.1.154) (Phosphatidylinositol 4,5-bisphosphate 3-kinase 110 kDa catalytic subunit gamma) (PtdIns-3-kinase subunit p110-gamma) (p110gamma) (Phosphoinositide-3-kinase catalytic gamma polypeptide) (Serine/threonine protein kinase PIK3CG) (EC 2.7.11.1) (p120-PI3K)	PIK3CG	Homo sapiens (Human)	1102
+PXN	P49023	reviewed	PAXI_HUMAN	Paxillin	PXN	Homo sapiens (Human)	591
+MAPKAPK2	P49137	reviewed	MAPK2_HUMAN	MAP kinase-activated protein kinase 2 (MAPK-activated protein kinase 2) (MAPKAP kinase 2) (MAPKAP-K2) (MAPKAPK-2) (MK-2) (MK2) (EC 2.7.11.1)	MAPKAPK2	Homo sapiens (Human)	400
+FAS	P49327	reviewed	FAS_HUMAN	Fatty acid synthase (EC 2.3.1.85) (Type I fatty acid synthase) [Includes: [Acyl-carrier-protein] S-acetyltransferase (EC 2.3.1.38); [Acyl-carrier-protein] S-malonyltransferase (EC 2.3.1.39); 3-oxoacyl-[acyl-carrier-protein] synthase (EC 2.3.1.41); 3-oxoacyl-[acyl-carrier-protein] reductase (EC 1.1.1.100); 3-hydroxyacyl-[acyl-carrier-protein] dehydratase (EC 4.2.1.59); Enoyl-[acyl-carrier-protein] reductase (EC 1.3.1.39); Acyl-[acyl-carrier-protein] hydrolase (EC 3.1.2.14)]	FASN FAS	Homo sapiens (Human)	2511
+ARRB1	P49407	reviewed	ARRB1_HUMAN	Beta-arrestin-1 (Arrestin beta-1) (Non-visual arrestin-2)	ARRB1 ARR1	Homo sapiens (Human)	418
+CXCR3	P49682	reviewed	CXCR3_HUMAN	C-X-C chemokine receptor type 3 (CXC-R3) (CXCR-3) (CKR-L2) (G protein-coupled receptor 9) (Interferon-inducible protein 10 receptor) (IP-10 receptor) (CD antigen CD183)	CXCR3 GPR9	Homo sapiens (Human)	368
+THBS3	P49746	reviewed	TSP3_HUMAN	Thrombospondin-3	THBS3 TSP3	Homo sapiens (Human)	956
+COMP	P49747	reviewed	COMP_HUMAN	Cartilage oligomeric matrix protein (COMP) (Thrombospondin-5) (TSP5)	COMP	Homo sapiens (Human)	757
+PSEN1	P49768	reviewed	PSN1_HUMAN	Presenilin-1 (PS-1) (EC 3.4.23.-) (Protein S182) [Cleaved into: Presenilin-1 NTF subunit; Presenilin-1 CTF subunit; Presenilin-1 CTF12 (PS1-CTF12)]	PSEN1 AD3 PS1 PSNL1	Homo sapiens (Human)	467
+GSK3B	P49841	reviewed	GSK3B_HUMAN	Glycogen synthase kinase-3 beta (GSK-3 beta) (EC 2.7.11.26) (Serine/threonine-protein kinase GSK3B) (EC 2.7.11.1)	GSK3B	Homo sapiens (Human)	420
+SELP	P49908	reviewed	SEPP1_HUMAN	Selenoprotein P (SeP)	SELENOP SELP SEPP1	Homo sapiens (Human)	381
+GNAQ	P50148	reviewed	GNAQ_HUMAN	Guanine nucleotide-binding protein G(q) subunit alpha (EC 3.6.5.-) (Guanine nucleotide-binding protein alpha-q)	GNAQ GAQ	Homo sapiens (Human)	359
+MMP14	P50281	reviewed	MMP14_HUMAN	Matrix metalloproteinase-14 (MMP-14) (EC 3.4.24.80) (MMP-X1) (Membrane-type matrix metalloproteinase 1) (MT-MMP 1) (MTMMP1) (Membrane-type-1 matrix metalloproteinase) (MT1-MMP) (MT1MMP)	MMP14	Homo sapiens (Human)	582
+VASP	P50552	reviewed	VASP_HUMAN	Vasodilator-stimulated phosphoprotein (VASP)	VASP	Homo sapiens (Human)	380
+DNM2	P50570	reviewed	DYN2_HUMAN	Dynamin-2 (EC 3.6.5.5) (Dynamin 2) (Dynamin II)	DNM2 DYN2	Homo sapiens (Human)	870
+GPC3	P51654	reviewed	GPC3_HUMAN	Glypican-3 (GTR2-2) (Intestinal protein OCI-5) (MXR7) [Cleaved into: Glypican-3 alpha subunit; Glypican-3 beta subunit]	GPC3 OCI5	Homo sapiens (Human)	580
+CCL11	P51671	reviewed	CCL11_HUMAN	Eotaxin (C-C motif chemokine 11) (Eosinophil chemotactic protein) (Small-inducible cytokine A11)	CCL11 SCYA11	Homo sapiens (Human)	97
+STAT5B	P51692	reviewed	STA5B_HUMAN	Signal transducer and activator of transcription 5B	STAT5B	Homo sapiens (Human)	787
+BMX	P51813	reviewed	BMX_HUMAN	Cytoplasmic tyrosine-protein kinase BMX (EC 2.7.10.2) (Bone marrow tyrosine kinase gene in chromosome X protein) (Epithelial and endothelial tyrosine kinase) (ETK) (NTK38)	BMX	Homo sapiens (Human)	675
+RND2	P52198	reviewed	RND2_HUMAN	Rho-related GTP-binding protein RhoN (EC 3.6.5.2) (Rho family GTPase 2) (Rho-related GTP-binding protein Rho7) (Rnd2)	RND2 ARHN RHO7	Homo sapiens (Human)	227
+MAP2K6	P52564	reviewed	MP2K6_HUMAN	Dual specificity mitogen-activated protein kinase kinase 6 (MAP kinase kinase 6) (MAPKK 6) (EC 2.7.12.2) (MAPK/ERK kinase 6) (MEK 6) (Stress-activated protein kinase kinase 3) (SAPK kinase 3) (SAPKK-3) (SAPKK3)	MAP2K6 MEK6 MKK6 PRKMK6 SKK3	Homo sapiens (Human)	334
+ARHGDIA	P52565	reviewed	GDIR1_HUMAN	Rho GDP-dissociation inhibitor 1 (Rho GDI 1) (Rho-GDI alpha)	ARHGDIA GDIA1	Homo sapiens (Human)	204
+VAV2	P52735	reviewed	VAV2_HUMAN	Guanine nucleotide exchange factor VAV2 (VAV-2)	VAV2	Homo sapiens (Human)	878
+EFNA3	P52797	reviewed	EFNA3_HUMAN	Ephrin-A3 (EFL-2) (EHK1 ligand) (EHK1-L) (EPH-related receptor tyrosine kinase ligand 3) (LERK-3)	EFNA3 EFL2 EPLG3 LERK3	Homo sapiens (Human)	238
+EFNB2	P52799	reviewed	EFNB2_HUMAN	Ephrin-B2 (EPH-related receptor tyrosine kinase ligand 5) (LERK-5) (HTK ligand) (HTK-L)	EFNB2 EPLG5 HTKL LERK5	Homo sapiens (Human)	333
+EFNA5	P52803	reviewed	EFNA5_HUMAN	Ephrin-A5 (AL-1) (EPH-related receptor tyrosine kinase ligand 7) (LERK-7)	EFNA5 EPLG7 LERK7	Homo sapiens (Human)	228
+LIMK1	P53667	reviewed	LIMK1_HUMAN	LIM domain kinase 1 (LIMK-1) (EC 2.7.11.1)	LIMK1 LIMK	Homo sapiens (Human)	647
+ITGA8	P53708	reviewed	ITA8_HUMAN	Integrin alpha-8 [Cleaved into: Integrin alpha-8 heavy chain; Integrin alpha-8 light chain]	ITGA8	Homo sapiens (Human)	1063
+MAPK12	P53778	reviewed	MK12_HUMAN	Mitogen-activated protein kinase 12 (MAP kinase 12) (MAPK 12) (EC 2.7.11.24) (Extracellular signal-regulated kinase 6) (ERK-6) (Mitogen-activated protein kinase p38 gamma) (MAP kinase p38 gamma) (Stress-activated protein kinase 3)	MAPK12 ERK6 SAPK3	Homo sapiens (Human)	367
+MAPK10	P53779	reviewed	MK10_HUMAN	Mitogen-activated protein kinase 10 (MAP kinase 10) (MAPK 10) (EC 2.7.11.24) (MAP kinase p49 3F12) (Stress-activated protein kinase 1b) (SAPK1b) (Stress-activated protein kinase JNK3) (c-Jun N-terminal kinase 3)	MAPK10 JNK3 JNK3A PRKM10 SAPK1B	Homo sapiens (Human)	464
+EPHB3	P54753	reviewed	EPHB3_HUMAN	Ephrin type-B receptor 3 (EC 2.7.10.1) (EPH-like tyrosine kinase 2) (EPH-like kinase 2) (Embryonic kinase 2) (EK2) (hEK2) (Tyrosine-protein kinase TYRO6)	EPHB3 ETK2 HEK2 TYRO6	Homo sapiens (Human)	998
+EPHB4	P54760	reviewed	EPHB4_HUMAN	Ephrin type-B receptor 4 (EC 2.7.10.1) (Hepatoma transmembrane kinase) (Tyrosine-protein kinase TYRO11)	EPHB4 HTK MYK1 TYRO11	Homo sapiens (Human)	987
+EPHB1	P54762	reviewed	EPHB1_HUMAN	Ephrin type-B receptor 1 (EC 2.7.10.1) (ELK) (EPH tyrosine kinase 2) (EPH-like kinase 6) (EK6) (hEK6) (Neuronally-expressed EPH-related tyrosine kinase) (NET) (Tyrosine-protein kinase receptor EPH-2)	EPHB1 ELK EPHT2 HEK6 NET	Homo sapiens (Human)	984
+EPHA4	P54764	reviewed	EPHA4_HUMAN	Ephrin type-A receptor 4 (EC 2.7.10.1) (EPH-like kinase 8) (EK8) (hEK8) (Tyrosine-protein kinase TYRO1) (Tyrosine-protein kinase receptor SEK)	EPHA4 HEK8 SEK TYRO1	Homo sapiens (Human)	986
+DVL1	P54792	reviewed	DVLP1_HUMAN	Putative segment polarity protein dishevelled homolog DVL1P1 (DSH homolog 1-like) (Segment polarity protein dishevelled homolog DVL-1-like) (Dishevelled-1-like)	DVL1P1 DVL DVL1 DVL1L1	Homo sapiens (Human)	670
+CASP9	P55211	reviewed	CASP9_HUMAN	Caspase-9 (CASP-9) (EC 3.4.22.62) (Apoptotic protease Mch-6) (Apoptotic protease-activating factor 3) (APAF-3) (ICE-like apoptotic protease 6) (ICE-LAP6) [Cleaved into: Caspase-9 subunit p35; Caspase-9 subunit p10]	CASP9 MCH6	Homo sapiens (Human)	416
+LAMB2	P55268	reviewed	LAMB2_HUMAN	Laminin subunit beta-2 (Laminin B1s chain) (Laminin-11 subunit beta) (Laminin-14 subunit beta) (Laminin-15 subunit beta) (Laminin-3 subunit beta) (Laminin-4 subunit beta) (Laminin-7 subunit beta) (Laminin-9 subunit beta) (S-laminin subunit beta) (S-LAM beta)	LAMB2 LAMS	Homo sapiens (Human)	1798
+CDH4	P55283	reviewed	CADH4_HUMAN	Cadherin-4 (Retinal cadherin) (R-CAD) (R-cadherin)	CDH4	Homo sapiens (Human)	916
+CDH11	P55287	reviewed	CAD11_HUMAN	Cadherin-11 (OSF-4) (Osteoblast cadherin) (OB-cadherin)	CDH11	Homo sapiens (Human)	796
+CDH15	P55291	reviewed	CAD15_HUMAN	Cadherin-15 (Cadherin-14) (Muscle cadherin) (M-cadherin)	CDH15 CDH14 CDH3	Homo sapiens (Human)	814
+GFRA1	P56159	reviewed	GFRA1_HUMAN	GDNF family receptor alpha-1 (GDNF receptor alpha-1) (GDNFR-alpha-1) (GFR-alpha-1) (RET ligand 1) (TGF-beta-related neurotrophic factor receptor 1)	GFRA1 GDNFRA RETL1 TRNR1	Homo sapiens (Human)	465
+ITGA1	P56199	reviewed	ITA1_HUMAN	Integrin alpha-1 (CD49 antigen-like family member A) (Laminin and collagen receptor) (VLA-1) (CD antigen CD49a)	ITGA1	Homo sapiens (Human)	1179
+WNT3	P56703	reviewed	WNT3_HUMAN	Proto-oncogene Wnt-3 (Proto-oncogene Int-4 homolog)	WNT3 INT4	Homo sapiens (Human)	355
+WNT3A	P56704	reviewed	WNT3A_HUMAN	Protein Wnt-3a	WNT3A	Homo sapiens (Human)	352
+WNT4	P56705	reviewed	WNT4_HUMAN	Protein Wnt-4	WNT4 UNQ426/PRO864	Homo sapiens (Human)	351
+WNT7B	P56706	reviewed	WNT7B_HUMAN	Protein Wnt-7b	WNT7B	Homo sapiens (Human)	349
+CLDN15	P56746	reviewed	CLD15_HUMAN	Claudin-15	CLDN15	Homo sapiens (Human)	228
+CLDN6	P56747	reviewed	CLD6_HUMAN	Claudin-6 (Skullin)	CLDN6 UNQ757/PRO1488	Homo sapiens (Human)	220
+CLDN8	P56748	reviewed	CLD8_HUMAN	Claudin-8	CLDN8 UNQ779/PRO1573	Homo sapiens (Human)	225
+CLDN17	P56750	reviewed	CLD17_HUMAN	Claudin-17	CLDN17 UNQ758/PRO1489	Homo sapiens (Human)	224
+CLDN18	P56856	reviewed	CLD18_HUMAN	Claudin-18	CLDN18 UNQ778/PRO1572	Homo sapiens (Human)	261
+CLDN20	P56880	reviewed	CLD20_HUMAN	Claudin-20	CLDN20	Homo sapiens (Human)	219
+BCAR1	P56945	reviewed	BCAR1_HUMAN	Breast cancer anti-estrogen resistance protein 1 (CRK-associated substrate) (Cas scaffolding protein family member 1) (p130cas)	BCAR1 CAS CASS1 CRKAS	Homo sapiens (Human)	870
+JAM2	P57087	reviewed	JAM2_HUMAN	Junctional adhesion molecule B (JAM-B) (Junctional adhesion molecule 2) (JAM-2) (Vascular endothelial junction-associated molecule) (VE-JAM) (CD antigen CD322)	JAM2 C21orf43 VEJAM UNQ219/PRO245	Homo sapiens (Human)	298
+CLDN2	P57739	reviewed	CLD2_HUMAN	Claudin-2 (SP82)	CLDN2 PSEC0059 SP82 UNQ705/PRO1356	Homo sapiens (Human)	230
+NRXN1	P58400	reviewed	NRX1B_HUMAN	Neurexin-1-beta (Neurexin I-beta)	NRXN1	Homo sapiens (Human)	472
+NRXN2	P58401	reviewed	NRX2B_HUMAN	Neurexin-2-beta (Neurexin II-beta)	NRXN2	Homo sapiens (Human)	666
+GNG2	P59768	reviewed	GBG2_HUMAN	Guanine nucleotide-binding protein G(I)/G(S)/G(O) subunit gamma-2 (G gamma-I)	GNG2	Homo sapiens (Human)	71
+NOS3	P60323	reviewed	NANO3_HUMAN	Nanos homolog 3 (NOS-3)	NANOS3 NOS3	Homo sapiens (Human)	173
+PTEN	P60484	reviewed	PTEN_HUMAN	Phosphatidylinositol 3,4,5-trisphosphate 3-phosphatase and dual-specificity protein phosphatase PTEN (EC 3.1.3.16) (EC 3.1.3.48) (EC 3.1.3.67) (Inositol polyphosphate 3-phosphatase) (EC 3.1.3.-) (Mutated in multiple advanced cancers 1) (Phosphatase and tensin homolog)	PTEN MMAC1 TEP1	Homo sapiens (Human)	403
+IL2	P60568	reviewed	IL2_HUMAN	Interleukin-2 (IL-2) (T-cell growth factor) (TCGF) (Aldesleukin)	IL2	Homo sapiens (Human)	153
+ACTB	P60709	reviewed	ACTB_HUMAN	Actin, cytoplasmic 1 (EC 3.6.4.-) (Beta-actin) [Cleaved into: Actin, cytoplasmic 1, N-terminally processed]	ACTB	Homo sapiens (Human)	375
+CDC42	P60953	reviewed	CDC42_HUMAN	Cell division control protein 42 homolog (EC 3.6.5.2) (G25K GTP-binding protein)	CDC42	Homo sapiens (Human)	191
+CXCR4	P61073	reviewed	CXCR4_HUMAN	C-X-C chemokine receptor type 4 (CXC-R4) (CXCR-4) (FB22) (Fusin) (HM89) (LCR1) (Leukocyte-derived seven transmembrane domain receptor) (LESTR) (Lipopolysaccharide-associated protein 3) (LAP-3) (LPS-associated protein 3) (NPYRL) (Stromal cell-derived factor 1 receptor) (SDF-1 receptor) (CD antigen CD184)	CXCR4	Homo sapiens (Human)	352
+ACTR3	P61158	reviewed	ARP3_HUMAN	Actin-related protein 3 (Actin-like protein 3)	ACTR3 ARP3	Homo sapiens (Human)	418
+ACTR2	P61160	reviewed	ARP2_HUMAN	Actin-related protein 2 (Actin-like protein 2)	ACTR2 ARP2	Homo sapiens (Human)	394
+RAP1B	P61224	reviewed	RAP1B_HUMAN	Ras-related protein Rap-1b (EC 3.6.5.2) (GTP-binding protein smg p21B)	RAP1B OK/SW-cl.11	Homo sapiens (Human)	184
+MAX	P61244	reviewed	MAX_HUMAN	Protein max (Class D basic helix-loop-helix protein 4) (bHLHd4) (Myc-associated factor X)	MAX BHLHD4	Homo sapiens (Human)	160
+RHOA	P61586	reviewed	RHOA_HUMAN	Transforming protein RhoA (EC 3.6.5.2) (Rho cDNA clone 12) (h12)	RHOA ARH12 ARHA RHO12	Homo sapiens (Human)	193
+RND3	P61587	reviewed	RND3_HUMAN	Rho-related GTP-binding protein RhoE (EC 3.6.5.2) (Protein MemB) (Rho family GTPase 3) (Rho-related GTP-binding protein Rho8) (Rnd3)	RND3 ARHE RHO8 RHOE	Homo sapiens (Human)	244
+TGFB2	P61812	reviewed	TGFB2_HUMAN	Transforming growth factor beta-2 proprotein (Cetermin) (Glioblastoma-derived T-cell suppressor factor) (G-TSF) [Cleaved into: Latency-associated peptide (LAP); Transforming growth factor beta-2 (TGF-beta-2)]	TGFB2	Homo sapiens (Human)	414
+RRAS2	P62070	reviewed	RRAS2_HUMAN	Ras-related protein R-Ras2 (EC 3.6.5.2) (Ras-like protein TC21) (Teratocarcinoma oncogene)	RRAS2 TC21	Homo sapiens (Human)	204
+ARF6	P62330	reviewed	ARF6_HUMAN	ADP-ribosylation factor 6 (EC 3.6.5.2)	ARF6	Homo sapiens (Human)	175
+RAB11A	P62491	reviewed	RB11A_HUMAN	Ras-related protein Rab-11A (Rab-11) (EC 3.6.5.2) (YL8)	RAB11A RAB11	Homo sapiens (Human)	216
+RHOB	P62745	reviewed	RHOB_HUMAN	Rho-related GTP-binding protein RhoB (EC 3.6.5.2) (Rho cDNA clone 6) (h6)	RHOB ARH6 ARHB	Homo sapiens (Human)	196
+RAP1A	P62834	reviewed	RAP1A_HUMAN	Ras-related protein Rap-1A (EC 3.6.5.2) (C21KG) (G-22K) (GTP-binding protein smg p21A) (Ras-related protein Krev-1)	RAP1A KREV1	Homo sapiens (Human)	184
+GNB1	P62873	reviewed	GBB1_HUMAN	Guanine nucleotide-binding protein G(I)/G(S)/G(T) subunit beta-1 (Transducin beta chain 1)	GNB1	Homo sapiens (Human)	340
+GRB2	P62993	reviewed	GRB2_HUMAN	Growth factor receptor-bound protein 2 (Adapter protein GRB2) (Protein Ash) (SH2/SH3 adapter GRB2)	GRB2 ASH	Homo sapiens (Human)	217
+RAC1	P63000	reviewed	RAC1_HUMAN	Ras-related C3 botulinum toxin substrate 1 (EC 3.6.5.2) (Cell migration-inducing gene 5 protein) (Ras-like protein TC25) (p21-Rac1)	RAC1 TC25 MIG5	Homo sapiens (Human)	192
+GNAS	P63092	reviewed	GNAS2_HUMAN	Guanine nucleotide-binding protein G(s) subunit alpha isoforms short (EC 3.6.5.-) (Adenylate cyclase-stimulating G alpha protein)	GNAS GNAS1 GSP	Homo sapiens (Human)	394
+GNAI1	P63096	reviewed	GNAI1_HUMAN	Guanine nucleotide-binding protein G(i) subunit alpha-1 (EC 3.6.5.-) (Adenylate cyclase-inhibiting G alpha protein)	GNAI1	Homo sapiens (Human)	354
+PPP3R1	P63098	reviewed	CANB1_HUMAN	Calcineurin subunit B type 1 (Protein phosphatase 2B regulatory subunit 1) (Protein phosphatase 3 regulatory subunit B alpha isoform 1)	PPP3R1 CNA2 CNB	Homo sapiens (Human)	170
+PPP2R2A	P63151	reviewed	2ABA_HUMAN	Serine/threonine-protein phosphatase 2A 55 kDa regulatory subunit B alpha isoform (PP2A subunit B isoform B55-alpha) (B55) (PP2A subunit B isoform PR55-alpha) (PP2A subunit B isoform R2-alpha) (PP2A subunit B isoform alpha)	PPP2R2A	Homo sapiens (Human)	447
+PPP2CA	P67775	reviewed	PP2AA_HUMAN	Serine/threonine-protein phosphatase 2A catalytic subunit alpha isoform (PP2A-alpha) (EC 3.1.3.16) (Replication protein C) (RP-C)	PPP2CA	Homo sapiens (Human)	309
+CNTNAP1	P78357	reviewed	CNTP1_HUMAN	Contactin-associated protein 1 (Caspr) (Caspr1) (Neurexin IV) (Neurexin-4) (p190)	CNTNAP1 CASPR NRXN4	Homo sapiens (Human)	1384
+CLDN10	P78369	reviewed	CLD10_HUMAN	Claudin-10 (Oligodendrocyte-specific protein-like) (OSP-like)	CLDN10	Homo sapiens (Human)	228
+RELN	P78509	reviewed	RELN_HUMAN	Reelin (EC 3.4.21.-)	RELN	Homo sapiens (Human)	3460
+SMAD3	P84022	reviewed	SMAD3_HUMAN	SMAD family member 3 (SMAD 3) (hSMAD3) (JV15-2) (Mothers against decapentaplegic homolog 3) (MAD homolog 3) (Mad3) (Mothers against DPP homolog 3) (hMAD-3)	SMAD3 MADH3	Homo sapiens (Human)	425
+GNAS	P84996	reviewed	ALEX_HUMAN	Protein ALEX (Alternative gene product encoded by XL-exon)	GNAS GNAS1	Homo sapiens (Human)	626
+SHC2	P98077	reviewed	SHC2_HUMAN	SHC-transforming protein 2 (Protein Sck) (SHC-transforming protein B) (Src homology 2 domain-containing-transforming protein C2) (SH2 domain protein C2)	SHC2 SCK SHCB	Homo sapiens (Human)	582
+XIAP	P98170	reviewed	XIAP_HUMAN	E3 ubiquitin-protein ligase XIAP (EC 2.3.2.27) (Baculoviral IAP repeat-containing protein 4) (IAP-like protein) (ILP) (hILP) (Inhibitor of apoptosis protein 3) (IAP-3) (hIAP-3) (hIAP3) (RING-type E3 ubiquitin transferase XIAP) (X-linked inhibitor of apoptosis protein) (X-linked IAP)	XIAP API3 BIRC4 IAP3	Homo sapiens (Human)	497
+EFNB1	P98172	reviewed	EFNB1_HUMAN	Ephrin-B1 (EFL-3) (ELK ligand) (ELK-L) (EPH-related receptor tyrosine kinase ligand 2) (LERK-2) [Cleaved into: Ephrin-B1 C-terminal fragment (Ephrin-B1 CTF); Ephrin-B1 intracellular domain (Ephrin-B1 ICD)]	EFNB1 EFL3 EPLG2 LERK2	Homo sapiens (Human)	346
+CDK5	Q00535	reviewed	CDK5_HUMAN	Cyclin-dependent kinase 5 (EC 2.7.11.1) (Cell division protein kinase 5) (Cyclin-dependent-like kinase 5) (Serine/threonine-protein kinase PSSALRE) (Tau protein kinase II catalytic subunit) (TPKII catalytic subunit)	CDK5 CDKN5 PSSALRE	Homo sapiens (Human)	292
+NFKB2	Q00653	reviewed	NFKB2_HUMAN	Nuclear factor NF-kappa-B p100 subunit (DNA-binding factor KBF2) (H2TF1) (Lymphocyte translocation chromosome 10 protein) (Nuclear factor of kappa light polypeptide gene enhancer in B-cells 2) (Oncogene Lyt-10) (Lyt10) [Cleaved into: Nuclear factor NF-kappa-B p52 subunit]	NFKB2 LYT10	Homo sapiens (Human)	900
+PLCB2	Q00722	reviewed	PLCB2_HUMAN	1-phosphatidylinositol 4,5-bisphosphate phosphodiesterase beta-2 (EC 3.1.4.11) (Phosphoinositide phospholipase C-beta-2) (Phospholipase C-beta-2) (PLC-beta-2)	PLCB2	Homo sapiens (Human)	1185
+COL4A3	Q01955	reviewed	CO4A3_HUMAN	Collagen alpha-3(IV) chain (Goodpasture antigen) [Cleaved into: Tumstatin]	COL4A3	Homo sapiens (Human)	1670
+PLCB3	Q01970	reviewed	PLCB3_HUMAN	1-phosphatidylinositol 4,5-bisphosphate phosphodiesterase beta-3 (EC 3.1.4.11) (Phosphoinositide phospholipase C-beta-3) (Phospholipase C-beta-3) (PLC-beta-3)	PLCB3	Homo sapiens (Human)	1234
+PRKCE	Q02156	reviewed	KPCE_HUMAN	Protein kinase C epsilon type (EC 2.7.11.13) (nPKC-epsilon)	PRKCE PKCE	Homo sapiens (Human)	737
+CNTN2	Q02246	reviewed	CNTN2_HUMAN	Contactin-2 (Axonal glycoprotein TAG-1) (Axonin-1) (Transient axonal glycoprotein 1) (TAX-1)	CNTN2 AXT TAG1 TAX1	Homo sapiens (Human)	1040
+NRG1	Q02297	reviewed	NRG1_HUMAN	Pro-neuregulin-1, membrane-bound isoform (Pro-NRG1) [Cleaved into: Neuregulin-1 (Acetylcholine receptor-inducing activity) (ARIA) (Breast cancer cell differentiation factor p45) (Glial growth factor) (Heregulin) (HRG) (Neu differentiation factor) (Sensory and motor neuron-derived factor)]	NRG1 GGF HGL HRGA NDF SMDF	Homo sapiens (Human)	640
+MAP2K1	Q02750	reviewed	MP2K1_HUMAN	Dual specificity mitogen-activated protein kinase kinase 1 (MAP kinase kinase 1) (MAPKK 1) (MKK1) (EC 2.7.12.2) (ERK activator kinase 1) (MAPK/ERK kinase 1) (MEK 1)	MAP2K1 MEK1 PRKMK1	Homo sapiens (Human)	393
+TEK	Q02763	reviewed	TIE2_HUMAN	Angiopoietin-1 receptor (EC 2.7.10.1) (Endothelial tyrosine kinase) (Tunica interna endothelial cell kinase) (Tyrosine kinase with Ig and EGF homology domains-2) (Tyrosine-protein kinase receptor TEK) (Tyrosine-protein kinase receptor TIE-2) (hTIE2) (p140 TEK) (CD antigen CD202b)	TEK TIE2 VMCM VMCM1	Homo sapiens (Human)	1124
+GNA12	Q03113	reviewed	GNA12_HUMAN	Guanine nucleotide-binding protein subunit alpha-12 (G alpha-12) (G protein subunit alpha-12)	GNA12	Homo sapiens (Human)	381
+CAV1	Q03135	reviewed	CAV1_HUMAN	Caveolin-1	CAV1 CAV	Homo sapiens (Human)	178
+PPARD	Q03181	reviewed	PPARD_HUMAN	Peroxisome proliferator-activated receptor delta (PPAR-delta) (NUCI) (Nuclear hormone receptor 1) (NUC1) (Nuclear receptor subfamily 1 group C member 2) (Peroxisome proliferator-activated receptor beta) (PPAR-beta)	PPARD NR1C2 PPARB	Homo sapiens (Human)	441
+PLAUR	Q03405	reviewed	UPAR_HUMAN	Urokinase plasminogen activator surface receptor (U-PAR) (uPAR) (Monocyte activation antigen Mo3) (CD antigen CD87)	PLAUR MO3 UPAR	Homo sapiens (Human)	335
+NOTCH2	Q04721	reviewed	NOTC2_HUMAN	Neurogenic locus notch homolog protein 2 (Notch 2) (hN2) [Cleaved into: Notch 2 extracellular truncation (N2ECD); Notch 2 intracellular domain (N2ICD)]	NOTCH2	Homo sapiens (Human)	2471
+PRKCQ	Q04759	reviewed	KPCT_HUMAN	Protein kinase C theta type (EC 2.7.11.13) (nPKC-theta)	PRKCQ PRKCT	Homo sapiens (Human)	706
+ACVR1	Q04771	reviewed	ACVR1_HUMAN	Activin receptor type-1 (EC 2.7.11.30) (Activin receptor type I) (ACTR-I) (Activin receptor-like kinase 2) (ALK-2) (Serine/threonine-protein kinase receptor R1) (SKR1) (TGF-B superfamily receptor type I) (TSR-I)	ACVR1 ACVRLK2	Homo sapiens (Human)	509
+PTK2	Q05397	reviewed	FAK1_HUMAN	Focal adhesion kinase 1 (FADK 1) (EC 2.7.10.2) (Focal adhesion kinase-related nonkinase) (FRNK) (Protein phosphatase 1 regulatory subunit 71) (PPP1R71) (Protein-tyrosine kinase 2) (p125FAK) (pp125FAK)	PTK2 FAK FAK1	Homo sapiens (Human)	1052
+PRKCZ	Q05513	reviewed	KPCZ_HUMAN	Protein kinase C zeta type (EC 2.7.11.13) (nPKC-zeta)	PRKCZ PKC2	Homo sapiens (Human)	592
+PRKCD	Q05655	reviewed	KPCD_HUMAN	Protein kinase C delta type (EC 2.7.11.13) (Tyrosine-protein kinase PRKCD) (EC 2.7.10.2) (nPKC-delta) [Cleaved into: Protein kinase C delta type regulatory subunit; Protein kinase C delta type catalytic subunit (Sphingosine-dependent protein kinase-1) (SDK1)]	PRKCD PKCD	Homo sapiens (Human)	676
+PTPN11	Q06124	reviewed	PTN11_HUMAN	Tyrosine-protein phosphatase non-receptor type 11 (EC 3.1.3.48) (Protein-tyrosine phosphatase 1D) (PTP-1D) (Protein-tyrosine phosphatase 2C) (PTP-2C) (SH-PTP2) (SHP-2) (Shp2) (SH-PTP3)	PTPN11 PTP2C SHPTP2	Homo sapiens (Human)	593
+TJP1	Q07157	reviewed	ZO1_HUMAN	Tight junction protein 1 (Tight junction protein ZO-1) (Zona occludens protein 1) (Zonula occludens protein 1)	TJP1 ZO1	Homo sapiens (Human)	1748
+BCL2L1	Q07817	reviewed	B2CL1_HUMAN	Bcl-2-like protein 1 (Bcl2-L-1) (Apoptosis regulator Bcl-X)	BCL2L1 BCL2L BCLX	Homo sapiens (Human)	233
+SOS1	Q07889	reviewed	SOS1_HUMAN	Son of sevenless homolog 1 (SOS-1)	SOS1	Homo sapiens (Human)	1333
+ACTN3	Q08043	reviewed	ACTN3_HUMAN	Alpha-actinin-3 (Alpha-actinin skeletal muscle isoform 3) (F-actin cross-linking protein)	ACTN3	Homo sapiens (Human)	901
+PPP3CA	Q08209	reviewed	PP2BA_HUMAN	Protein phosphatase 3 catalytic subunit alpha (EC 3.1.3.16) (CAM-PRP catalytic subunit) (Calcineurin A alpha) (Calmodulin-dependent calcineurin A subunit alpha isoform) (CNA alpha) (Serine/threonine-protein phosphatase 2B catalytic subunit alpha isoform)	PPP3CA CALNA CNA	Homo sapiens (Human)	521
+MFGE8	Q08431	reviewed	MFGM_HUMAN	Lactadherin (Breast epithelial antigen BA46) (HMFG) (MFGM) (Milk fat globule-EGF factor 8) (MFG-E8) (SED1) [Cleaved into: Lactadherin short form; Medin]	MFGE8	Homo sapiens (Human)	387
+CD47	Q08722	reviewed	CD47_HUMAN	Leukocyte surface antigen CD47 (Antigenic surface determinant protein OA3) (Integrin-associated protein) (IAP) (Protein MER6) (CD antigen CD47)	CD47 MER6	Homo sapiens (Human)	323
+MAP4K2	Q12851	reviewed	M4K2_HUMAN	Mitogen-activated protein kinase kinase kinase kinase 2 (EC 2.7.11.1) (B lymphocyte serine/threonine-protein kinase) (Germinal center kinase) (GC kinase) (MAPK/ERK kinase kinase kinase 2) (MEK kinase kinase 2) (MEKKK 2) (Rab8-interacting protein)	MAP4K2 GCK RAB8IP	Homo sapiens (Human)	820
+MAP3K12	Q12852	reviewed	M3K12_HUMAN	Mitogen-activated protein kinase kinase kinase 12 (EC 2.7.11.25) (Dual leucine zipper bearing kinase) (DLK) (Leucine-zipper protein kinase) (ZPK) (MAPK-upstream kinase) (MUK) (Mixed lineage kinase)	MAP3K12 ZPK	Homo sapiens (Human)	859
+CNTN1	Q12860	reviewed	CNTN1_HUMAN	Contactin-1 (Glycoprotein gp135) (Neural cell surface protein F3)	CNTN1	Homo sapiens (Human)	1018
+GRIN2A	Q12879	reviewed	NMDE1_HUMAN	Glutamate receptor ionotropic, NMDA 2A (GluN2A) (Glutamate [NMDA] receptor subunit epsilon-1) (N-methyl D-aspartate receptor subtype 2A) (NMDAR2A) (NR2A) (hNR2A)	GRIN2A NMDAR2A	Homo sapiens (Human)	1464
+FAP	Q12884	reviewed	SEPR_HUMAN	Prolyl endopeptidase FAP (EC 3.4.21.26) (170 kDa melanoma membrane-bound gelatinase) (Dipeptidyl peptidase FAP) (EC 3.4.14.5) (Fibroblast activation protein alpha) (FAPalpha) (Gelatine degradation protease FAP) (EC 3.4.21.-) (Integral membrane serine protease) (Post-proline cleaving enzyme) (Serine integral membrane protease) (SIMP) (Surface-expressed protease) (Seprase) [Cleaved into: Antiplasmin-cleaving enzyme FAP, soluble form (APCE) (EC 3.4.14.5) (EC 3.4.21.-) (EC 3.4.21.26)]	FAP	Homo sapiens (Human)	760
+PTPRJ	Q12913	reviewed	PTPRJ_HUMAN	Receptor-type tyrosine-protein phosphatase eta (Protein-tyrosine phosphatase eta) (R-PTP-eta) (EC 3.1.3.48) (Density-enhanced phosphatase 1) (DEP-1) (HPTP eta) (Protein-tyrosine phosphatase receptor type J) (R-PTP-J) (CD antigen CD148)	PTPRJ DEP1	Homo sapiens (Human)	1337
+PTPN13	Q12923	reviewed	PTN13_HUMAN	Tyrosine-protein phosphatase non-receptor type 13 (EC 3.1.3.48) (Fas-associated protein-tyrosine phosphatase 1) (FAP-1) (PTP-BAS) (Protein-tyrosine phosphatase 1E) (PTP-E1) (hPTPE1) (Protein-tyrosine phosphatase PTPL1)	PTPN13 PNP1 PTP1E PTPL1	Homo sapiens (Human)	2485
+TRAF2	Q12933	reviewed	TRAF2_HUMAN	TNF receptor-associated factor 2 (EC 2.3.2.27) (E3 ubiquitin-protein ligase TRAF2) (RING-type E3 ubiquitin transferase TRAF2) (Tumor necrosis factor type 2 receptor-associated protein 3)	TRAF2 TRAP3	Homo sapiens (Human)	501
+RALGDS	Q12967	reviewed	GNDS_HUMAN	Ral guanine nucleotide dissociation stimulator (RalGDS) (Ral guanine nucleotide exchange factor) (RalGEF)	RALGDS KIAA1308 RGF	Homo sapiens (Human)	914
+TIAM1	Q13009	reviewed	TIAM1_HUMAN	Rho guanine nucleotide exchange factor TIAM1 (T-lymphoma invasion and metastasis-inducing protein 1) (TIAM-1)	TIAM1	Homo sapiens (Human)	1591
+ARHGAP5	Q13017	reviewed	RHG05_HUMAN	Rho GTPase-activating protein 5 (Rho-type GTPase-activating protein 5) (p190-B)	ARHGAP5 RHOGAP5	Homo sapiens (Human)	1502
+LCP2	Q13094	reviewed	LCP2_HUMAN	Lymphocyte cytosolic protein 2 (SH2 domain-containing leukocyte protein of 76 kDa) (SLP-76 tyrosine phosphoprotein) (SLP76)	LCP2	Homo sapiens (Human)	533
+BAMBI	Q13145	reviewed	BAMBI_HUMAN	BMP and activin membrane-bound inhibitor homolog (Non-metastatic gene A protein) (Putative transmembrane protein NMA)	BAMBI NMA	Homo sapiens (Human)	260
+PAK1	Q13153	reviewed	PAK1_HUMAN	Serine/threonine-protein kinase PAK 1 (EC 2.7.11.1) (Alpha-PAK) (p21-activated kinase 1) (PAK-1) (p65-PAK)	PAK1	Homo sapiens (Human)	545
+MAP2K5	Q13163	reviewed	MP2K5_HUMAN	Dual specificity mitogen-activated protein kinase kinase 5 (MAP kinase kinase 5) (MAPKK 5) (EC 2.7.12.2) (MAPK/ERK kinase 5) (MEK 5)	MAP2K5 MEK5 MKK5 PRKMK5	Homo sapiens (Human)	448
+MAPK7	Q13164	reviewed	MK07_HUMAN	Mitogen-activated protein kinase 7 (MAP kinase 7) (MAPK 7) (EC 2.7.11.24) (Big MAP kinase 1) (BMK-1) (Extracellular signal-regulated kinase 5) (ERK-5)	MAPK7 BMK1 ERK5 PRKM7	Homo sapiens (Human)	816
+PAK2	Q13177	reviewed	PAK2_HUMAN	Serine/threonine-protein kinase PAK 2 (EC 2.7.11.1) (Gamma-PAK) (PAK65) (S6/H4 kinase) (p21-activated kinase 2) (PAK-2) (p58) [Cleaved into: PAK-2p27 (p27); PAK-2p34 (p34) (C-t-PAK2)]	PAK2	Homo sapiens (Human)	524
+CBLB	Q13191	reviewed	CBLB_HUMAN	E3 ubiquitin-protein ligase CBL-B (EC 2.3.2.27) (Casitas B-lineage lymphoma proto-oncogene b) (RING finger protein 56) (RING-type E3 ubiquitin transferase CBL-B) (SH3-binding protein CBL-B) (Signal transduction protein CBL-B)	CBLB RNF56 Nbla00127	Homo sapiens (Human)	982
+MAP3K1	Q13233	reviewed	M3K1_HUMAN	Mitogen-activated protein kinase kinase kinase 1 (EC 2.7.11.25) (MAPK/ERK kinase kinase 1) (MEK kinase 1) (MEKK 1) (EC 2.3.2.27)	MAP3K1 MAPKKK1 MEKK MEKK1	Homo sapiens (Human)	1512
+NOG	Q13253	reviewed	NOGG_HUMAN	Noggin	NOG	Homo sapiens (Human)	232
+MAPK8IP2	Q13387	reviewed	JIP2_HUMAN	C-Jun-amino-terminal kinase-interacting protein 2 (JIP-2) (JNK-interacting protein 2) (Islet-brain-2) (IB-2) (JNK MAP kinase scaffold protein 2) (Mitogen-activated protein kinase 8-interacting protein 2)	MAPK8IP2 IB2 JIP2 PRKM8IPL	Homo sapiens (Human)	824
+PLD1	Q13393	reviewed	PLD1_HUMAN	Phospholipase D1 (PLD 1) (hPLD1) (EC 3.1.4.4) (Choline phosphatase 1) (Phosphatidylcholine-hydrolyzing phospholipase D1)	PLD1	Homo sapiens (Human)	1074
+ILK	Q13418	reviewed	ILK_HUMAN	Scaffold protein ILK (ILK-1) (ILK-2) (Inactive integrin-linked kinase) (p59ILK)	ILK ILK1 ILK2	Homo sapiens (Human)	452
+ROCK1	Q13464	reviewed	ROCK1_HUMAN	Rho-associated protein kinase 1 (EC 2.7.11.39) (Renal carcinoma antigen NY-REN-35) (Rho-associated, coiled-coil-containing protein kinase 1) (Rho-associated, coiled-coil-containing protein kinase I) (ROCK-I) (p160 ROCK-1) (p160ROCK)	ROCK1	Homo sapiens (Human)	1354
+NFATC2	Q13469	reviewed	NFAC2_HUMAN	Nuclear factor of activated T-cells, cytoplasmic 2 (NF-ATc2) (NFATc2) (NFAT pre-existing subunit) (NF-ATp) (T-cell transcription factor NFAT1)	NFATC2 NFAT1 NFATP	Homo sapiens (Human)	925
+MADCAM1	Q13477	reviewed	MADCA_HUMAN	Mucosal addressin cell adhesion molecule 1 (MAdCAM-1) (hMAdCAM-1)	MADCAM1	Homo sapiens (Human)	382
+GAB1	Q13480	reviewed	GAB1_HUMAN	GRB2-associated-binding protein 1 (GRB2-associated binder 1) (Growth factor receptor bound protein 2-associated protein 1)	GAB1	Homo sapiens (Human)	694
+SMAD4	Q13485	reviewed	SMAD4_HUMAN	SMAD family member 4 (SMAD 4) (hSMAD4) (Deletion target in pancreatic carcinoma 4) (Mothers against decapentaplegic homolog 4) (MAD homolog 4) (Mothers against DPP homolog 4)	SMAD4 DPC4 MADH4	Homo sapiens (Human)	552
+BIRC3	Q13489	reviewed	BIRC3_HUMAN	Baculoviral IAP repeat-containing protein 3 (EC 2.3.2.27) (Apoptosis inhibitor 2) (API2) (Cellular inhibitor of apoptosis 2) (C-IAP2) (IAP homolog C) (Inhibitor of apoptosis protein 1) (hIAP-1) (hIAP1) (RING finger protein 49) (RING-type E3 ubiquitin transferase BIRC3) (TNFR2-TRAF-signaling complex protein 1)	BIRC3 API2 MIHC RNF49	Homo sapiens (Human)	604
+CAMK2G	Q13555	reviewed	KCC2G_HUMAN	Calcium/calmodulin-dependent protein kinase type II subunit gamma (CaM kinase II subunit gamma) (CaMK-II subunit gamma) (EC 2.7.11.17)	CAMK2G CAMK CAMK-II CAMKG	Homo sapiens (Human)	558
+RIN1	Q13671	reviewed	RIN1_HUMAN	Ras and Rab interactor 1 (Ras inhibitor JC99) (Ras interaction/interference protein 1)	RIN1	Homo sapiens (Human)	783
+ITGA7	Q13683	reviewed	ITA7_HUMAN	Integrin alpha-7 [Cleaved into: Integrin alpha-7 heavy chain; Integrin alpha-7 light chain; Integrin alpha-7 70 kDa form]	ITGA7 UNQ406/PRO768	Homo sapiens (Human)	1181
+ACVR2B	Q13705	reviewed	AVR2B_HUMAN	Activin receptor type-2B (EC 2.7.11.30) (Activin receptor type IIB) (ACTR-IIB)	ACVR2B	Homo sapiens (Human)	512
+ALCAM	Q13740	reviewed	CD166_HUMAN	CD166 antigen (Activated leukocyte cell adhesion molecule) (CD antigen CD166)	ALCAM MEMD	Homo sapiens (Human)	583
+LAMB3	Q13751	reviewed	LAMB3_HUMAN	Laminin subunit beta-3 (Epiligrin subunit beta) (Kalinin B1 chain) (Kalinin subunit beta) (Laminin B1k chain) (Laminin-5 subunit beta) (Nicein subunit beta)	LAMB3 LAMNB1	Homo sapiens (Human)	1172
+LAMC2	Q13753	reviewed	LAMC2_HUMAN	Laminin subunit gamma-2 (Cell-scattering factor 140 kDa subunit) (CSF 140 kDa subunit) (Epiligrin subunit gamma) (Kalinin subunit gamma) (Kalinin/nicein/epiligrin 100 kDa subunit) (Ladsin 140 kDa subunit) (Laminin B2t chain) (Laminin-5 subunit gamma) (Large adhesive scatter factor 140 kDa subunit) (Nicein subunit gamma)	LAMC2 LAMB2T LAMNB2	Homo sapiens (Human)	1193
+SHROOM2	Q13796	reviewed	SHRM2_HUMAN	Protein Shroom2 (Apical-like protein) (Protein APXL)	SHROOM2 APXL	Homo sapiens (Human)	1616
+ITGA9	Q13797	reviewed	ITA9_HUMAN	Integrin alpha-9 (Integrin alpha-RLC)	ITGA9	Homo sapiens (Human)	1035
+BMPR2	Q13873	reviewed	BMPR2_HUMAN	Bone morphogenetic protein receptor type-2 (BMP type-2 receptor) (BMPR-2) (EC 2.7.11.30) (Bone morphogenetic protein receptor type II) (BMP type II receptor) (BMPR-II)	BMPR2 PPH1	Homo sapiens (Human)	1038
+PTK6	Q13882	reviewed	PTK6_HUMAN	Protein-tyrosine kinase 6 (EC 2.7.10.2) (Breast tumor kinase) (Tyrosine-protein kinase BRK)	PTK6 BRK	Homo sapiens (Human)	451
+RAPGEF1	Q13905	reviewed	RPGF1_HUMAN	Rap guanine nucleotide exchange factor 1 (CRK SH3-binding GNRP) (Guanine nucleotide-releasing factor 2) (Protein C3G)	RAPGEF1 GRF2	Homo sapiens (Human)	1077
+RASGRF1	Q13972	reviewed	RGRF1_HUMAN	Ras-specific guanine nucleotide-releasing factor 1 (Ras-GRF1) (Guanine nucleotide-releasing protein) (GNRP) (Ras-specific nucleotide exchange factor CDC25)	RASGRF1 CDC25 GNRP GRF1	Homo sapiens (Human)	1273
+PRKG1	Q13976	reviewed	KGP1_HUMAN	cGMP-dependent protein kinase 1 (cGK 1) (cGK1) (EC 2.7.11.12) (cGMP-dependent protein kinase I) (cGKI)	PRKG1 PRKG1B PRKGR1A PRKGR1B	Homo sapiens (Human)	671
+COL4A6	Q14031	reviewed	CO4A6_HUMAN	Collagen alpha-6(IV) chain	COL4A6	Homo sapiens (Human)	1691
+ARHGEF7	Q14155	reviewed	ARHG7_HUMAN	Rho guanine nucleotide exchange factor 7 (Beta-Pix) (COOL-1) (PAK-interacting exchange factor beta) (p85)	ARHGEF7 COOL1 KIAA0142 P85SPR PAK3BP PIXB Nbla10314	Homo sapiens (Human)	803
+DOCK1	Q14185	reviewed	DOCK1_HUMAN	Dedicator of cytokinesis protein 1 (180 kDa protein downstream of CRK) (DOCK180)	DOCK1	Homo sapiens (Human)	1865
+SELPLG	Q14242	reviewed	SELPL_HUMAN	P-selectin glycoprotein ligand 1 (PSGL-1) (Selectin P ligand) (CD antigen CD162)	SELPLG	Homo sapiens (Human)	412
+CTTN	Q14247	reviewed	SRC8_HUMAN	Src substrate cortactin (Amplaxin) (Oncogene EMS1)	CTTN EMS1	Homo sapiens (Human)	550
+PTK2B	Q14289	reviewed	FAK2_HUMAN	Protein-tyrosine kinase 2-beta (EC 2.7.10.2) (Calcium-dependent tyrosine kinase) (CADTK) (Calcium-regulated non-receptor proline-rich tyrosine kinase) (Cell adhesion kinase beta) (CAK-beta) (CAKB) (Focal adhesion kinase 2) (FADK 2) (Proline-rich tyrosine kinase 2) (Related adhesion focal tyrosine kinase) (RAFTK)	PTK2B FAK2 PYK2 RAFTK	Homo sapiens (Human)	1009
+FZD2	Q14332	reviewed	FZD2_HUMAN	Frizzled-2 (Fz-2) (hFz2) (FzE2)	FZD2	Homo sapiens (Human)	565
+FAT1	Q14517	reviewed	FAT1_HUMAN	Protocadherin Fat 1 (Cadherin family member 7) (Cadherin-related tumor suppressor homolog) (Protein fat homolog) [Cleaved into: Protocadherin Fat 1, nuclear form]	FAT1 CDHF7 FAT	Homo sapiens (Human)	4588
+CASP8	Q14790	reviewed	CASP8_HUMAN	Caspase-8 (CASP-8) (EC 3.4.22.61) (Apoptotic cysteine protease) (Apoptotic protease Mch-5) (CAP4) (FADD-homologous ICE/ced-3-like protease) (FADD-like ICE) (FLICE) (ICE-like apoptotic protease 5) (MORT1-associated ced-3 homolog) (MACH) [Cleaved into: Caspase-8 subunit p18; Caspase-8 subunit p10]	CASP8 MCH5	Homo sapiens (Human)	479
+ERBB4	Q15303	reviewed	ERBB4_HUMAN	Receptor tyrosine-protein kinase erbB-4 (EC 2.7.10.1) (Proto-oncogene-like protein c-ErbB-4) (Tyrosine kinase-type cell surface receptor HER4) (p180erbB4) [Cleaved into: ERBB4 intracellular domain (4ICD) (E4ICD) (s80HER4)]	ERBB4 HER4	Homo sapiens (Human)	1308
+ANGPT1	Q15389	reviewed	ANGP1_HUMAN	Angiopoietin-1 (ANG-1)	ANGPT1 KIAA0003	Homo sapiens (Human)	498
+TRIP6	Q15654	reviewed	TRIP6_HUMAN	Thyroid receptor-interacting protein 6 (TR-interacting protein 6) (TRIP-6) (Opa-interacting protein 1) (OIP-1) (Zyxin-related protein 1) (ZRP-1)	TRIP6 OIP1	Homo sapiens (Human)	476
+MAPRE1	Q15691	reviewed	MARE1_HUMAN	Microtubule-associated protein RP/EB family member 1 (APC-binding protein EB1) (End-binding protein 1) (EB1)	MAPRE1	Homo sapiens (Human)	268
+MYLK	Q15746	reviewed	MYLK_HUMAN	Myosin light chain kinase, smooth muscle (MLCK) (smMLCK) (EC 2.7.11.18) (Kinase-related protein) (KRP) (Telokin) [Cleaved into: Myosin light chain kinase, smooth muscle, deglutamylated form]	MYLK MLCK MLCK1 MYLK1	Homo sapiens (Human)	1914
+MAPK11	Q15759	reviewed	MK11_HUMAN	Mitogen-activated protein kinase 11 (MAP kinase 11) (MAPK 11) (EC 2.7.11.24) (Mitogen-activated protein kinase p38 beta) (MAP kinase p38 beta) (p38b) (Stress-activated protein kinase 2b) (SAPK2b) (p38-2)	MAPK11 PRKM11 SAPK2 SAPK2B	Homo sapiens (Human)	364
+CD226	Q15762	reviewed	CD226_HUMAN	CD226 antigen (DNAX accessory molecule 1) (DNAM-1) (CD antigen CD226)	CD226 DNAM1	Homo sapiens (Human)	336
+SMAD2	Q15796	reviewed	SMAD2_HUMAN	SMAD family member 2 (SMAD 2) (hSMAD2) (JV18-1) (Mad-related protein 2) (hMAD-2) (Mothers against decapentaplegic homolog 2) (MAD homolog 2) (Mothers against DPP homolog 2)	SMAD2 MADH2 MADR2	Homo sapiens (Human)	467
+ZYX	Q15942	reviewed	ZYX_HUMAN	Zyxin (Zyxin-2)	ZYX	Homo sapiens (Human)	572
+NTRK3	Q16288	reviewed	NTRK3_HUMAN	NT-3 growth factor receptor (EC 2.7.10.1) (GP145-TrkC) (Trk-C) (Neurotrophic tyrosine kinase receptor type 3) (TrkC tyrosine kinase)	NTRK3 TRKC	Homo sapiens (Human)	839
+LAMA4	Q16363	reviewed	LAMA4_HUMAN	Laminin subunit alpha-4 (Laminin-14 subunit alpha) (Laminin-8 subunit alpha) (Laminin-9 subunit alpha)	LAMA4	Homo sapiens (Human)	1823
+PAK1	Q16512	reviewed	PKN1_HUMAN	Serine/threonine-protein kinase N1 (EC 2.7.11.13) (Protease-activated kinase 1) (PAK-1) (Protein kinase C-like 1) (Protein kinase C-like PKN) (Protein kinase PKN-alpha) (Protein-kinase C-related kinase 1) (Serine-threonine protein kinase N)	PKN1 PAK1 PKN PRK1 PRKCL1	Homo sapiens (Human)	942
+PKN2	Q16513	reviewed	PKN2_HUMAN	Serine/threonine-protein kinase N2 (EC 2.7.11.13) (PKN gamma) (Protein kinase C-like 2) (Protein-kinase C-related kinase 2)	PKN2 PRK2 PRKCL2	Homo sapiens (Human)	984
+MAPK14	Q16539	reviewed	MK14_HUMAN	Mitogen-activated protein kinase 14 (MAP kinase 14) (MAPK 14) (EC 2.7.11.24) (Cytokine suppressive anti-inflammatory drug-binding protein) (CSAID-binding protein) (CSBP) (MAP kinase MXI2) (MAX-interacting protein 2) (Mitogen-activated protein kinase p38 alpha) (MAP kinase p38 alpha) (Stress-activated protein kinase 2a) (SAPK2a)	MAPK14 CSBP CSBP1 CSBP2 CSPB1 MXI2 SAPK2A	Homo sapiens (Human)	360
+MAP3K11	Q16584	reviewed	M3K11_HUMAN	Mitogen-activated protein kinase kinase kinase 11 (EC 2.7.11.25) (Mixed lineage kinase 3) (Src-homology 3 domain-containing proline-rich kinase)	MAP3K11 MLK3 PTK1 SPRK	Homo sapiens (Human)	847
+NTRK2	Q16620	reviewed	NTRK2_HUMAN	BDNF/NT-3 growth factors receptor (EC 2.7.10.1) (GP145-TrkB) (Trk-B) (Neurotrophic tyrosine kinase receptor type 2) (TrkB tyrosine kinase) (Tropomyosin-related kinase B)	NTRK2 TRKB	Homo sapiens (Human)	822
+MAPKAPK3	Q16644	reviewed	MAPK3_HUMAN	MAP kinase-activated protein kinase 3 (MAPK-activated protein kinase 3) (MAPKAP kinase 3) (MAPKAP-K3) (MAPKAPK-3) (MK-3) (EC 2.7.11.1) (Chromosome 3p kinase) (3pK)	MAPKAPK3	Homo sapiens (Human)	382
+HIF1A	Q16665	reviewed	HIF1A_HUMAN	Hypoxia-inducible factor 1-alpha (HIF-1-alpha) (HIF1-alpha) (ARNT-interacting protein) (Basic-helix-loop-helix-PAS protein MOP1) (Class E basic helix-loop-helix protein 78) (bHLHe78) (Member of PAS protein 1) (PAS domain-containing protein 8)	HIF1A BHLHE78 MOP1 PASD8	Homo sapiens (Human)	826
+LAMA3	Q16787	reviewed	LAMA3_HUMAN	Laminin subunit alpha-3 (Epiligrin 170 kDa subunit) (E170) (Epiligrin subunit alpha) (Kalinin subunit alpha) (Laminin-5 subunit alpha) (Laminin-6 subunit alpha) (Laminin-7 subunit alpha) (Nicein subunit alpha)	LAMA3 LAMNA	Homo sapiens (Human)	3333
+DDR2	Q16832	reviewed	DDR2_HUMAN	Discoidin domain-containing receptor 2 (Discoidin domain receptor 2) (EC 2.7.10.1) (CD167 antigen-like family member B) (Discoidin domain-containing receptor tyrosine kinase 2) (Neurotrophic tyrosine kinase, receptor-related 3) (Receptor protein-tyrosine kinase TKT) (Tyrosine-protein kinase TYRO10) (CD antigen CD167b)	DDR2 NTRKR3 TKT TYRO10	Homo sapiens (Human)	855
+GNAS	Q5JWF2	reviewed	GNAS1_HUMAN	Guanine nucleotide-binding protein G(s) subunit alpha isoforms XLas (EC 3.6.5.-) (Adenylate cyclase-stimulating G alpha protein) (Extra large alphas protein) (XLalphas)	GNAS GNAS1	Homo sapiens (Human)	1037
+CDC42BPA	Q5VT25	reviewed	MRCKA_HUMAN	Serine/threonine-protein kinase MRCK alpha (EC 2.7.11.1) (CDC42-binding protein kinase alpha) (DMPK-like alpha) (Myotonic dystrophy kinase-related CDC42-binding kinase alpha) (MRCK alpha) (Myotonic dystrophy protein kinase-like alpha)	CDC42BPA KIAA0451	Homo sapiens (Human)	1732
+PLEKHA7	Q6IQ23	reviewed	PKHA7_HUMAN	Pleckstrin homology domain-containing family A member 7 (PH domain-containing family A member 7)	PLEKHA7	Homo sapiens (Human)	1121
+MAGI1	Q6P9H4	reviewed	CNKR3_HUMAN	Connector enhancer of kinase suppressor of ras 3 (Connector enhancer of KSR 3) (CNK homolog protein 3) (CNK3) (CNKSR family member 3) (Maguin-like protein)	CNKSR3 MAGI1	Homo sapiens (Human)	555
+FAT4	Q6V0I7	reviewed	FAT4_HUMAN	Protocadherin Fat 4 (hFat4) (Cadherin family member 14) (FAT tumor suppressor homolog 4) (Fat-like cadherin protein FAT-J)	FAT4 CDHF14 FATJ Nbla00548	Homo sapiens (Human)	4981
+NEGR1	Q7Z3B1	reviewed	NEGR1_HUMAN	Neuronal growth regulator 1 (IgLON family member 4)	NEGR1 IGLON4 UNQ2433/PRO4993	Homo sapiens (Human)	354
+MAP4K3	Q8IVH8	reviewed	M4K3_HUMAN	Mitogen-activated protein kinase kinase kinase kinase 3 (EC 2.7.11.1) (Germinal center kinase-related protein kinase) (GLK) (MAPK/ERK kinase kinase kinase 3) (MEK kinase kinase 3) (MEKKK 3)	MAP4K3 RAB8IPL1	Homo sapiens (Human)	894
+KSR1	Q8IVT5	reviewed	KSR1_HUMAN	Kinase suppressor of Ras 1 (EC 2.7.11.1)	KSR1 KSR	Homo sapiens (Human)	923
+MAPKAPK5	Q8IW41	reviewed	MAPK5_HUMAN	MAP kinase-activated protein kinase 5 (MAPK-activated protein kinase 5) (MAPKAP kinase 5) (MAPKAP-K5) (MAPKAPK-5) (MK-5) (MK5) (EC 2.7.11.1) (p38-regulated/activated protein kinase) (PRAK)	MAPKAPK5 PRAK	Homo sapiens (Human)	473
+ABI1	Q8IZP0	reviewed	ABI1_HUMAN	Abl interactor 1 (Abelson interactor 1) (Abi-1) (Abl-binding protein 4) (AblBP4) (Eps8 SH3 domain-binding protein) (Eps8-binding protein) (Nap1-binding protein) (Nap1BP) (Spectrin SH3 domain-binding protein 1) (e3B1)	ABI1 SSH3BP1	Homo sapiens (Human)	508
+NLGN4X	Q8N0W4	reviewed	NLGNX_HUMAN	Neuroligin-4, X-linked (Neuroligin X) (HNLX)	NLGN4X KIAA1260 NLGN4 UNQ365/PRO701	Homo sapiens (Human)	816
+CADM3	Q8N126	reviewed	CADM3_HUMAN	Cell adhesion molecule 3 (Brain immunoglobulin receptor) (Immunoglobulin superfamily member 4B) (IgSF4B) (Nectin-like protein 1) (NECL-1) (Synaptic cell adhesion molecule 3) (SynCAM3) (TSLC1-like protein 1) (TSLL1)	CADM3 IGSF4B NECL1 SYNCAM3 TSLL1 UNQ225/PRO258	Homo sapiens (Human)	398
+GPC2	Q8N158	reviewed	GPC2_HUMAN	Glypican-2 [Cleaved into: Secreted glypican-2]	GPC2	Homo sapiens (Human)	579
+NLGN1	Q8N2Q7	reviewed	NLGN1_HUMAN	Neuroligin-1	NLGN1 KIAA1070	Homo sapiens (Human)	863
+CLDN19	Q8N6F1	reviewed	CLD19_HUMAN	Claudin-19	CLDN19	Homo sapiens (Human)	224
+CLDN22	Q8N7P3	reviewed	CLD22_HUMAN	Claudin-22	CLDN22	Homo sapiens (Human)	220
+ENAH	Q8N8S7	reviewed	ENAH_HUMAN	Protein enabled homolog	ENAH MENA	Homo sapiens (Human)	591
+NLGN2	Q8NFZ4	reviewed	NLGN2_HUMAN	Neuroligin-2	NLGN2 KIAA1366	Homo sapiens (Human)	835
+PARD3	Q8TEW0	reviewed	PARD3_HUMAN	Partitioning defective 3 homolog (PAR-3) (PARD-3) (Atypical PKC isotype-specific-interacting protein) (ASIP) (CTCL tumor antigen se2-5) (PAR3-alpha)	PARD3 PAR3 PAR3A	Homo sapiens (Human)	1356
+FRS2	Q8WU20	reviewed	FRS2_HUMAN	Fibroblast growth factor receptor substrate 2 (FGFR substrate 2) (FGFR-signaling adaptor SNT) (Suc1-associated neurotrophic factor target 1) (SNT-1)	FRS2	Homo sapiens (Human)	508
+BRK1	Q8WUW1	reviewed	BRK1_HUMAN	Protein BRICK1 (BRK1)	BRK1 C3orf10 HSPC300 MDS027	Homo sapiens (Human)	75
+ARAP3	Q8WWN8	reviewed	ARAP3_HUMAN	Arf-GAP with Rho-GAP domain, ANK repeat and PH domain-containing protein 3 (Centaurin-delta-3) (Cnt-d3)	ARAP3 CENTD3	Homo sapiens (Human)	1544
+SHC3	Q92529	reviewed	SHC3_HUMAN	SHC-transforming protein 3 (Neuronal Shc) (N-Shc) (Protein Rai) (SHC-transforming protein C) (Src homology 2 domain-containing-transforming protein C3) (SH2 domain protein C3)	SHC3 NSHC SHCC	Homo sapiens (Human)	594
+ELMO1	Q92556	reviewed	ELMO1_HUMAN	Engulfment and cell motility protein 1 (Protein ced-12 homolog)	ELMO1 KIAA0281	Homo sapiens (Human)	727
+WASF1	Q92558	reviewed	WASF1_HUMAN	Actin-binding protein WASF1 (Protein WAVE-1) (Verprolin homology domain-containing protein 1) (Wiskott-Aldrich syndrome protein family member 1) (WASP family protein member 1)	WASF1 KIAA0269 SCAR1 WAVE1	Homo sapiens (Human)	559
+DOCK2	Q92608	reviewed	DOCK2_HUMAN	Dedicator of cytokinesis protein 2	DOCK2 KIAA0209	Homo sapiens (Human)	1830
+LPAR1	Q92633	reviewed	LPAR1_HUMAN	Lysophosphatidic acid receptor 1 (LPA receptor 1) (LPA-1) (Lysophosphatidic acid receptor Edg-2)	LPAR1 EDG2 LPA1	Homo sapiens (Human)	364
+PVRL2	Q92692	reviewed	NECT2_HUMAN	Nectin-2 (Herpes virus entry mediator B) (Herpesvirus entry mediator B) (HveB) (Nectin cell adhesion molecule 2) (Poliovirus receptor-related protein 2) (CD antigen CD112)	NECTIN2 HVEB PRR2 PVRL2	Homo sapiens (Human)	538
+TNR	Q92752	reviewed	TENR_HUMAN	Tenascin-R (TN-R) (Janusin) (Restrictin)	TNR	Homo sapiens (Human)	1358
+CREBBP	Q92793	reviewed	CBP_HUMAN	CREB-binding protein (Histone lysine acetyltransferase CREBBP) (EC 2.3.1.48) (Protein lactyltransferas CREBBP) (EC 2.3.1.-) (Protein-lysine acetyltransferase CREBBP) (EC 2.3.1.-)	CREBBP CBP	Homo sapiens (Human)	2442
+SYMPK	Q92797	reviewed	SYMPK_HUMAN	Symplekin	SYMPK SPK	Homo sapiens (Human)	1274
+NRCAM	Q92823	reviewed	NRCAM_HUMAN	Neuronal cell adhesion molecule (Nr-CAM) (Neuronal surface protein Bravo) (hBravo) (NgCAM-related cell adhesion molecule) (Ng-CAM-related)	NRCAM KIAA0343	Homo sapiens (Human)	1304
+TRAF2	Q92844	reviewed	TANK_HUMAN	TRAF family member-associated NF-kappa-B activator (TRAF-interacting protein) (I-TRAF)	TANK ITRAF TRAF2	Homo sapiens (Human)	425
+NEO1	Q92859	reviewed	NEO1_HUMAN	Neogenin (Immunoglobulin superfamily DCC subclass member 2)	NEO1 IGDCC2 NGN	Homo sapiens (Human)	1461
+ARHGEF1	Q92888	reviewed	ARHG1_HUMAN	Rho guanine nucleotide exchange factor 1 (115 kDa guanine nucleotide exchange factor) (p115-RhoGEF) (p115RhoGEF) (Sub1.5)	ARHGEF1	Homo sapiens (Human)	912
+MAP4K1	Q92918	reviewed	M4K1_HUMAN	Mitogen-activated protein kinase kinase kinase kinase 1 (EC 2.7.11.1) (Hematopoietic progenitor kinase) (MAPK/ERK kinase kinase kinase 1) (MEK kinase kinase 1) (MEKKK 1)	MAP4K1 HPK1	Homo sapiens (Human)	833
+DVL3	Q92997	reviewed	DVL3_HUMAN	Segment polarity protein dishevelled homolog DVL-3 (Dishevelled-3) (DSH homolog 3)	DVL3 KIAA0208	Homo sapiens (Human)	716
+WNT2B	Q93097	reviewed	WNT2B_HUMAN	Protein Wnt-2b (Protein Wnt-13)	WNT2B WNT13	Homo sapiens (Human)	391
+WNT8B	Q93098	reviewed	WNT8B_HUMAN	Protein Wnt-8b	WNT8B	Homo sapiens (Human)	351
+MYLPF	Q96A32	reviewed	MYL11_HUMAN	Myosin regulatory light chain 11 (Fast skeletal myosin light chain 2) (MLC2B) (Myosin light chain 11) (Myosin regulatory light chain 2, skeletal muscle isoform)	MYL11 HSRLC MYLPF	Homo sapiens (Human)	169
+EXOC4	Q96A65	reviewed	EXOC4_HUMAN	Exocyst complex component 4 (Exocyst complex component Sec8)	EXOC4 KIAA1699 SEC8 SEC8L1	Homo sapiens (Human)	974
+ESAM	Q96AP7	reviewed	ESAM_HUMAN	Endothelial cell-selective adhesion molecule	ESAM UNQ220/PRO246	Homo sapiens (Human)	390
+CLDN23	Q96B33	reviewed	CLD23_HUMAN	Claudin-23	CLDN23	Homo sapiens (Human)	292
+NTNG2	Q96CW9	reviewed	NTNG2_HUMAN	Netrin-G2 (Laminet-2)	NTNG2 KIAA1857 LMNT2 UNQ9381/PRO34206	Homo sapiens (Human)	530
+CYFIP2	Q96F07	reviewed	CYFP2_HUMAN	Cytoplasmic FMR1-interacting protein 2 (p53-inducible protein 121)	CYFIP2 KIAA1168 PIR121	Homo sapiens (Human)	1278
+SIPA1	Q96FS4	reviewed	SIPA1_HUMAN	Signal-induced proliferation-associated protein 1 (Sipa-1) (GTPase-activating protein Spa-1) (p130 SPA-1)	SIPA1 SPA1	Homo sapiens (Human)	1042
+AJUBA	Q96IF1	reviewed	AJUBA_HUMAN	LIM domain-containing protein ajuba	AJUBA JUB	Homo sapiens (Human)	538
+ELMO2	Q96JJ3	reviewed	ELMO2_HUMAN	Engulfment and cell motility protein 2 (Protein ced-12 homolog A) (hCed-12A)	ELMO2 CED12A KIAA1834	Homo sapiens (Human)	720
+EXOC2	Q96KP1	reviewed	EXOC2_HUMAN	Exocyst complex component 2 (Exocyst complex component Sec5)	EXOC2 SEC5 SEC5L1	Homo sapiens (Human)	924
+PRICKLE1	Q96MT3	reviewed	PRIC1_HUMAN	Prickle-like protein 1 (REST/NRSF-interacting LIM domain protein 1)	PRICKLE1 RILP	Homo sapiens (Human)	831
+MAGI1	Q96QZ7	reviewed	MAGI1_HUMAN	Membrane-associated guanylate kinase, WW and PDZ domain-containing protein 1 (Atrophin-1-interacting protein 3) (AIP-3) (BAI1-associated protein 1) (BAP-1) (Membrane-associated guanylate kinase inverted 1) (MAGI-1) (Trinucleotide repeat-containing gene 19 protein) (WW domain-containing protein 3) (WWP3)	MAGI1 AIP3 BAIAP1 BAP1 TNRC19	Homo sapiens (Human)	1491
+F2RL3	Q96RI0	reviewed	PAR4_HUMAN	Proteinase-activated receptor 4 (PAR-4) (Coagulation factor II receptor-like 3) (Thrombin receptor-like 3)	F2RL3 PAR4	Homo sapiens (Human)	385
+NODAL	Q96S42	reviewed	NODAL_HUMAN	Nodal homolog	NODAL	Homo sapiens (Human)	347
+CSF3R	Q99062	reviewed	CSF3R_HUMAN	Granulocyte colony-stimulating factor receptor (G-CSF receptor) (G-CSF-R) (CD antigen CD114)	CSF3R GCSFR	Homo sapiens (Human)	836
+HBEGF	Q99075	reviewed	HBEGF_HUMAN	Proheparin-binding EGF-like growth factor [Cleaved into: Heparin-binding EGF-like growth factor (HB-EGF) (HBEGF) (Diphtheria toxin receptor) (DT-R)]	HBEGF DTR DTS HEGFL	Homo sapiens (Human)	208
+MAP3K14	Q99558	reviewed	M3K14_HUMAN	Mitogen-activated protein kinase kinase kinase 14 (EC 2.7.11.25) (NF-kappa-beta-inducing kinase) (HsNIK) (Serine/threonine-protein kinase NIK)	MAP3K14 NIK	Homo sapiens (Human)	947
+MAP3K5	Q99683	reviewed	M3K5_HUMAN	Mitogen-activated protein kinase kinase kinase 5 (EC 2.7.11.25) (Apoptosis signal-regulating kinase 1) (ASK-1) (MAPK/ERK kinase kinase 5) (MEK kinase 5) (MEKK 5)	MAP3K5 ASK1 MAPKKK5 MEKK5	Homo sapiens (Human)	1374
+PIP5K1A	Q99755	reviewed	PI51A_HUMAN	Phosphatidylinositol 4-phosphate 5-kinase type-1 alpha (PIP5K1-alpha) (PtdIns(4)P-5-kinase 1 alpha) (EC 2.7.1.68) (68 kDa type I phosphatidylinositol 4-phosphate 5-kinase alpha) (Phosphatidylinositol 4-phosphate 5-kinase type I alpha) (PIP5KIalpha)	PIP5K1A	Homo sapiens (Human)	562
+MAP3K3	Q99759	reviewed	M3K3_HUMAN	Mitogen-activated protein kinase kinase kinase 3 (EC 2.7.11.25) (MAPK/ERK kinase kinase 3) (MEK kinase 3) (MEKK 3)	MAP3K3 MAPKKK3 MEKK3	Homo sapiens (Human)	626
+APC2	Q9BV35	reviewed	SCMC3_HUMAN	Mitochondrial adenyl nucleotide antiporter SLC25A23 (Mitochondrial ATP-Mg/Pi carrier protein 2) (Short calcium-binding mitochondrial carrier protein 3) (SCaMC-3) (Solute carrier family 25 member 23)	SLC25A23 APC2 MCSC2 SCAMC3	Homo sapiens (Human)	468
+JAM3	Q9BX67	reviewed	JAM3_HUMAN	Junctional adhesion molecule C (JAM-C) (JAM-2) (Junctional adhesion molecule 3) (JAM-3) [Cleaved into: Soluble form of JAM-C (sJAM-C)]	JAM3 UNQ859/PRO1868	Homo sapiens (Human)	310
+SPP1	Q9BX95	reviewed	SGPP1_HUMAN	Sphingosine-1-phosphate phosphatase 1 (SPPase1) (Spp1) (hSPP1) (hSPPase1) (EC 3.1.3.-) (Sphingosine-1-phosphatase 1) (Sphingosine-1-phosphate phosphohydrolase 1) (SPP-1)	SGPP1 SPP1	Homo sapiens (Human)	441
+CADM1	Q9BY67	reviewed	CADM1_HUMAN	Cell adhesion molecule 1 (Immunoglobulin superfamily member 4) (IgSF4) (Nectin-like protein 2) (NECL-2) (Spermatogenic immunoglobulin superfamily) (SgIgSF) (Synaptic cell adhesion molecule) (SynCAM) (Tumor suppressor in lung cancer 1) (TSLC-1)	CADM1 IGSF4 IGSF4A NECL2 SYNCAM TSLC1	Homo sapiens (Human)	442
+TBL1XR1	Q9BZK7	reviewed	TBL1R_HUMAN	F-box-like/WD repeat-containing protein TBL1XR1 (Nuclear receptor corepressor/HDAC3 complex subunit TBLR1) (TBL1-related protein 1) (Transducin beta-like 1X-related protein 1)	TBL1XR1 IRA1 TBLR1	Homo sapiens (Human)	514
+PRKD2	Q9BZL6	reviewed	KPCD2_HUMAN	Serine/threonine-protein kinase D2 (EC 2.7.11.13) (nPKC-D2)	PRKD2 PKD2 HSPC187	Homo sapiens (Human)	878
+SIGLEC1	Q9BZZ2	reviewed	SN_HUMAN	Sialoadhesin (Sialic acid-binding Ig-like lectin 1) (Siglec-1) (CD antigen CD169)	SIGLEC1 SN	Homo sapiens (Human)	1709
+WNT10A	Q9GZT5	reviewed	WN10A_HUMAN	Protein Wnt-10a	WNT10A	Homo sapiens (Human)	417
+WNT8A	Q9H1J5	reviewed	WNT8A_HUMAN	Protein Wnt-8a (Protein Wnt-8d)	WNT8A WNT8D	Homo sapiens (Human)	351
+WNT5B	Q9H1J7	reviewed	WNT5B_HUMAN	Protein Wnt-5b	WNT5B	Homo sapiens (Human)	359
+PARVG	Q9HBI0	reviewed	PARVG_HUMAN	Gamma-parvin	PARVG	Homo sapiens (Human)	331
+PARVB	Q9HBI1	reviewed	PARVB_HUMAN	Beta-parvin (Affixin)	PARVB CGI-56	Homo sapiens (Human)	364
+LPAR2	Q9HBW0	reviewed	LPAR2_HUMAN	Lysophosphatidic acid receptor 2 (LPA receptor 2) (LPA-2) (Lysophosphatidic acid receptor Edg-4)	LPAR2 EDG4 LPA2	Homo sapiens (Human)	348
+NRXN3	Q9HDB5	reviewed	NRX3B_HUMAN	Neurexin-3-beta (Neurexin III-beta) [Cleaved into: Neurexin-3-beta, soluble form; Neurexin-3-beta, C-terminal fragment (NRXN3-CTF)]	NRXN3 KIAA0743	Homo sapiens (Human)	637
+PARD6A	Q9NPB6	reviewed	PAR6A_HUMAN	Partitioning defective 6 homolog alpha (PAR-6) (PAR-6 alpha) (PAR-6A) (PAR6C) (Tax interaction protein 40) (TIP-40)	PARD6A PAR6A	Homo sapiens (Human)	346
+PLCB1	Q9NQ66	reviewed	PLCB1_HUMAN	1-phosphatidylinositol 4,5-bisphosphate phosphodiesterase beta-1 (EC 3.1.4.11) (PLC-154) (Phosphoinositide phospholipase C-beta-1) (Phospholipase C-I) (PLC-I) (Phospholipase C-beta-1) (PLC-beta-1)	PLCB1 KIAA0581	Homo sapiens (Human)	1216
+TCF7L2	Q9NQB0	reviewed	TF7L2_HUMAN	Transcription factor 7-like 2 (HMG box transcription factor 4) (T-cell-specific transcription factor 4) (T-cell factor 4) (TCF-4) (hTCF-4)	TCF7L2 TCF4	Homo sapiens (Human)	619
+ARHGAP35	Q9NRY4	reviewed	RHG35_HUMAN	Rho GTPase-activating protein 35 (Glucocorticoid receptor DNA-binding factor 1) (Glucocorticoid receptor repression factor 1) (GRF-1) (Rho GAP p190A) (p190-A)	ARHGAP35 GRF1 GRLF1 KIAA1722 P190A p190ARHOGAP	Homo sapiens (Human)	1499
+PARVA	Q9NVD7	reviewed	PARVA_HUMAN	Alpha-parvin (Actopaxin) (CH-ILKBP) (Calponin-like integrin-linked kinase-binding protein) (Matrix-remodeling-associated protein 2)	PARVA MXRA2	Homo sapiens (Human)	372
+MET	Q9NWH9	reviewed	SLTM_HUMAN	SAFB-like transcription modulator (Modulator of estrogen-induced transcription)	SLTM MET	Homo sapiens (Human)	1034
+SPHK1	Q9NYA1	reviewed	SPHK1_HUMAN	Sphingosine kinase 1 (SK 1) (SPK 1) (EC 2.7.1.91) (Acetyltransferase SPHK1) (EC 2.3.1.-)	SPHK1 SK1 SPHK SPK	Homo sapiens (Human)	384
+ABI2	Q9NYB9	reviewed	ABI2_HUMAN	Abl interactor 2 (Abelson interactor 2) (Abi-2) (Abl-binding protein 3) (AblBP3) (Arg-binding protein 1) (ArgBP1)	ABI2 ARGBPIA	Homo sapiens (Human)	513
+NLGN3	Q9NZ94	reviewed	NLGN3_HUMAN	Neuroligin-3 (Gliotactin homolog)	NLGN3 KIAA1480 NL3	Homo sapiens (Human)	848
+NRXN2	Q9P2S2	reviewed	NRX2A_HUMAN	Neurexin-2 (Neurexin II-alpha) (Neurexin-2-alpha)	NRXN2 KIAA0921	Homo sapiens (Human)	1712
+WNT16	Q9UBV4	reviewed	WNT16_HUMAN	Protein Wnt-16	WNT16	Homo sapiens (Human)	365
+LPAR3	Q9UBY5	reviewed	LPAR3_HUMAN	Lysophosphatidic acid receptor 3 (LPA receptor 3) (LPA-3) (Lysophosphatidic acid receptor Edg-7)	LPAR3 EDG7 LPA3	Homo sapiens (Human)	353
+DAXX	Q9UER7	reviewed	DAXX_HUMAN	Death domain-associated protein 6 (Daxx) (hDaxx) (ETS1-associated protein 1) (EAP1) (Fas death domain-associated protein)	DAXX BING2 DAP6	Homo sapiens (Human)	740
+LIMA1	Q9UHB6	reviewed	LIMA1_HUMAN	LIM domain and actin-binding protein 1 (Epithelial protein lost in neoplasm)	LIMA1 EPLIN SREBP3 PP624	Homo sapiens (Human)	759
+CNTNAP2	Q9UHC6	reviewed	CNTP2_HUMAN	Contactin-associated protein-like 2 (Cell recognition molecule Caspr2)	CNTNAP2 CASPR2 KIAA0868	Homo sapiens (Human)	1331
+CTNNA3	Q9UI47	reviewed	CTNA3_HUMAN	Catenin alpha-3 (Alpha T-catenin) (Cadherin-associated protein)	CTNNA3	Homo sapiens (Human)	895
+LEF1	Q9UJU2	reviewed	LEF1_HUMAN	Lymphoid enhancer-binding factor 1 (LEF-1) (T cell-specific transcription factor 1-alpha) (TCF1-alpha)	LEF1	Homo sapiens (Human)	399
+APC2	Q9UJX6	reviewed	ANC2_HUMAN	Anaphase-promoting complex subunit 2 (APC2) (Cyclosome subunit 2)	ANAPC2 APC2 KIAA1406	Homo sapiens (Human)	822
+VAV3	Q9UKW4	reviewed	VAV3_HUMAN	Guanine nucleotide exchange factor VAV3 (VAV-3)	VAV3	Homo sapiens (Human)	847
+MYH2	Q9UKX2	reviewed	MYH2_HUMAN	Myosin-2 (Myosin heavy chain 2) (Myosin heavy chain 2a) (MyHC-2a) (Myosin heavy chain IIa) (MyHC-IIa) (Myosin heavy chain, skeletal muscle, adult 2)	MYH2 MYHSA2	Homo sapiens (Human)	1941
+ITGA11	Q9UKX5	reviewed	ITA11_HUMAN	Integrin alpha-11	ITGA11 MSTP018	Homo sapiens (Human)	1188
+TAOK2	Q9UL54	reviewed	TAOK2_HUMAN	Serine/threonine-protein kinase TAO2 (EC 2.7.11.1) (Kinase from chicken homolog C) (hKFC-C) (Prostate-derived sterile 20-like kinase 1) (PSK-1) (PSK1) (Prostate-derived STE20-like kinase 1) (Thousand and one amino acid protein kinase 2)	TAOK2 KIAA0881 MAP3K17 PSK PSK1 UNQ2971/PRO7431	Homo sapiens (Human)	1235
+NRXN1	Q9ULB1	reviewed	NRX1A_HUMAN	Neurexin-1 (Neurexin I-alpha) (Neurexin-1-alpha)	NRXN1 KIAA0578	Homo sapiens (Human)	1477
+CDH1	Q9UM11	reviewed	FZR1_HUMAN	Fizzy-related protein homolog (Fzr) (CDC20-like protein 1) (Cdh1/Hct1 homolog) (hCDH1)	FZR1 CDH1 FYR FZR KIAA1242	Homo sapiens (Human)	496
+MAPK8IP3	Q9UPT6	reviewed	JIP3_HUMAN	C-Jun-amino-terminal kinase-interacting protein 3 (JIP-3) (JNK-interacting protein 3) (JNK MAP kinase scaffold protein 3) (Mitogen-activated protein kinase 8-interacting protein 3)	MAPK8IP3 JIP3 KIAA1066	Homo sapiens (Human)	1336
+DICER1	Q9UPY3	reviewed	DICER_HUMAN	Endoribonuclease Dicer (EC 3.1.26.3) (Helicase with RNase motif) (Helicase MOI)	DICER1 DICER HERNA KIAA0928	Homo sapiens (Human)	1922
+WASF3	Q9UPY6	reviewed	WASF3_HUMAN	Actin-binding protein WASF3 (Protein WAVE-3) (Verprolin homology domain-containing protein 3) (Wiskott-Aldrich syndrome protein family member 3) (WASP family protein member 3)	WASF3 KIAA0900 SCAR3 WAVE3	Homo sapiens (Human)	502
+BAIAP2	Q9UQB8	reviewed	BAIP2_HUMAN	BAR/IMD domain-containing adapter protein 2 (Brain-specific angiogenesis inhibitor 1-associated protein 2) (BAI-associated protein 2) (BAI1-associated protein 2) (Protein BAP2) (Fas ligand-associated factor 3) (FLAF3) (Insulin receptor substrate p53/p58) (IRS-58) (IRSp53/58) (Insulin receptor substrate protein of 53 kDa) (IRSp53) (Insulin receptor substrate p53)	BAIAP2	Homo sapiens (Human)	552
+GAB2	Q9UQC2	reviewed	GAB2_HUMAN	GRB2-associated-binding protein 2 (GRB2-associated binder 2) (Growth factor receptor bound protein 2-associated protein 2) (pp100)	GAB2 KIAA0571	Homo sapiens (Human)	676
+AKT3	Q9Y243	reviewed	AKT3_HUMAN	RAC-gamma serine/threonine-protein kinase (EC 2.7.11.1) (Protein kinase Akt-3) (Protein kinase B gamma) (PKB gamma) (RAC-PK-gamma) (STK-2)	AKT3 PKBG	Homo sapiens (Human)	479
+HPSE	Q9Y251	reviewed	HPSE_HUMAN	Heparanase (EC 3.2.1.166) (Endo-glucoronidase) (Heparanase-1) (Hpa1) [Cleaved into: Heparanase 8 kDa subunit; Heparanase 50 kDa subunit]	HPSE HEP HPA HPA1 HPR1 HPSE1 HSE1	Homo sapiens (Human)	543
+NCKAP1	Q9Y2A7	reviewed	NCKP1_HUMAN	Nck-associated protein 1 (NAP 1) (Membrane-associated protein HEM-2) (p125Nap1)	NCKAP1 HEM2 KIAA0587 NAP1	Homo sapiens (Human)	1128
+SSX2IP	Q9Y2D8	reviewed	ADIP_HUMAN	Afadin- and alpha-actinin-binding protein (ADIP) (Afadin DIL domain-interacting protein) (SSX2-interacting protein)	SSX2IP KIAA0923	Homo sapiens (Human)	614
+NTNG1	Q9Y2I2	reviewed	NTNG1_HUMAN	Netrin-G1 (Laminet-1)	NTNG1 KIAA0976 LMNT1 UNQ571/PRO1133	Homo sapiens (Human)	539
+MAP3K2	Q9Y2U5	reviewed	M3K2_HUMAN	Mitogen-activated protein kinase kinase kinase 2 (EC 2.7.11.25) (MAPK/ERK kinase kinase 2) (MEK kinase 2) (MEKK 2)	MAP3K2 MAPKKK2 MEKK2	Homo sapiens (Human)	619
+TLN1	Q9Y490	reviewed	TLN1_HUMAN	Talin-1	TLN1 KIAA1027 TLN	Homo sapiens (Human)	2541
+NRXN3	Q9Y4C0	reviewed	NRX3A_HUMAN	Neurexin-3 (Neurexin III-alpha) (Neurexin-3-alpha)	NRXN3 C14orf60 KIAA0743	Homo sapiens (Human)	1643
+DAAM1	Q9Y4D1	reviewed	DAAM1_HUMAN	Disheveled-associated activator of morphogenesis 1	DAAM1 KIAA0666	Homo sapiens (Human)	1078
+PLXND1	Q9Y4D7	reviewed	PLXD1_HUMAN	Plexin-D1	PLXND1 KIAA0620	Homo sapiens (Human)	1925
+TLN2	Q9Y4G6	reviewed	TLN2_HUMAN	Talin-2	TLN2 KIAA0320	Homo sapiens (Human)	2542
+IRS2	Q9Y4H2	reviewed	IRS2_HUMAN	Insulin receptor substrate 2 (IRS-2)	IRS2	Homo sapiens (Human)	1338
+TRAF6	Q9Y4K3	reviewed	TRAF6_HUMAN	TNF receptor-associated factor 6 (EC 2.3.2.27) (E3 ubiquitin-protein ligase TRAF6) (Interleukin-1 signal transducer) (RING finger protein 85) (RING-type E3 ubiquitin transferase TRAF6)	TRAF6 RNF85	Homo sapiens (Human)	522
+ANGPTL3	Q9Y5C1	reviewed	ANGL3_HUMAN	Angiopoietin-related protein 3 (Angiopoietin-5) (ANG-5) (Angiopoietin-like protein 3) [Cleaved into: ANGPTL3(17-221); ANGPTL3(17-224)]	ANGPTL3 ANGPT5 UNQ153/PRO179	Homo sapiens (Human)	460
+CLDN16	Q9Y5I7	reviewed	CLD16_HUMAN	Claudin-16 (Paracellin-1) (PCLN-1)	CLDN16 PCLN1	Homo sapiens (Human)	235
+CD2AP	Q9Y5K6	reviewed	CD2AP_HUMAN	CD2-associated protein (Adapter protein CMS) (Cas ligand with multiple SH3 domains)	CD2AP	Homo sapiens (Human)	639
+F11R	Q9Y624	reviewed	JAM1_HUMAN	Junctional adhesion molecule A (JAM-A) (Junctional adhesion molecule 1) (JAM-1) (Platelet F11 receptor) (Platelet adhesion molecule 1) (PAM-1) (CD antigen CD321)	F11R JAM1 JCAM UNQ264/PRO301	Homo sapiens (Human)	299
+WNT6	Q9Y6F9	reviewed	WNT6_HUMAN	Protein Wnt-6	WNT6	Homo sapiens (Human)	365
+LAMC3	Q9Y6N6	reviewed	LAMC3_HUMAN	Laminin subunit gamma-3 (Laminin-12 subunit gamma) (Laminin-14 subunit gamma) (Laminin-15 subunit gamma)	LAMC3	Homo sapiens (Human)	1575
+MAP3K4	Q9Y6R4	reviewed	M3K4_HUMAN	Mitogen-activated protein kinase kinase kinase 4 (EC 2.7.11.25) (MAP three kinase 1) (MAPK/ERK kinase kinase 4) (MEK kinase 4) (MEKK 4)	MAP3K4 KIAA0213 MAPKKK4 MEKK4 MTK1	Homo sapiens (Human)	1608
+WASF2	Q9Y6W5	reviewed	WASF2_HUMAN	Actin-binding protein WASF2 (Protein WAVE-2) (Verprolin homology domain-containing protein 2) (Wiskott-Aldrich syndrome protein family member 2) (WASP family protein member 2)	WASF2 WAVE2	Homo sapiens (Human)	498

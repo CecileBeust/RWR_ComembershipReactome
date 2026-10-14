@@ -1,0 +1,11 @@
+seed: EVADING_GROWTH_SUPPRESSORS_seeds.txt
+self_loops: 0
+r: 0.1
+eta: [1.0]
+multiplex:
+    1:
+        layers:
+            - ../../../../../Data/ReactomeCliques/Reactome96UnweightedComembershipClique.tsv
+        delta: 0
+        graph_type: [00]
+        tau: [1]

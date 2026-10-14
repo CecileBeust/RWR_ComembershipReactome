@@ -1,0 +1,11 @@
+seed: TUMOR_PROMOTING_INFLAMMATION_seeds.txt
+self_loops: 0
+r: 0.1
+eta: [1.0]
+multiplex:
+    1:
+        layers:
+            - ../../../../../Data/ReactomeCliques/Reactome96WeightedComembershipClique_NO_NSP.tsv
+        delta: 0
+        graph_type: [01]
+        tau: [1]
